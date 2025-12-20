@@ -1,0 +1,89 @@
+{
+    "id": "email_sender_tools",
+    "name": "Email Sender Tools",
+    "version": "1.4.0",
+    "icon_file": "icon.png",
+    "author": "awenk audico",
+    "email": "sahidinaola@gmail.com",
+    "website": "www.teetah.art",
+    "description": "Sends an email using SMTP credentials configured in Variable Management. Supports attachments via file path.",
+    "category": "Communication",
+    "type": "PLUGIN",
+    "entry_point": "processor.EmailSenderModule",
+    "tier": "basic",
+    "behaviors": [
+        "retry"
+    ],
+    "requires_services": [
+        "logger",
+        "loc",
+        "kernel",
+        "variable_manager_service"
+    ],
+    "ui_schema": [
+        {
+            "component": "header",
+            "label": "Email Content"
+        },
+        {
+            "id": "recipient_to",
+            "type": "string",
+            "label": "Recipient (To)",
+            "placeholder": "e.g. client@example.com",
+            "icon": "mdi-email-arrow-right-outline",
+            "description": "The email address of the receiver. Can utilize payload variables (e.g. {{data.email}}).",
+            "required": true
+        },
+        {
+            "id": "subject",
+            "type": "string",
+            "label": "Subject Line",
+            "default": "Notification from Flowork",
+            "icon": "mdi-format-title"
+        },
+        {
+            "id": "body",
+            "type": "string",
+            "component": "code_editor",
+            "label": "Body Message",
+            "default": "Hello,\n\nThis is an automated message.",
+            "options": {
+                "language": "text",
+                "wordWrap": "on",
+                "minimap": { "enabled": false }
+            },
+            "rows": 6,
+            "description": "The content of your email."
+        },
+        {
+            "component": "header",
+            "label": "Attachments"
+        },
+        {
+            "id": "attachment_path_variable",
+            "type": "string",
+            "label": "Attachment Variable Path",
+            "default": "data.image_path",
+            "icon": "mdi-paperclip",
+            "description": "Dot-notation path in payload to find the file to attach (e.g. 'data.image_path'). Leave empty if none."
+        }
+    ],
+    "output_ports": [
+        {
+            "name": "success",
+            "display_name": "Success",
+            "port_position": "top"
+        },
+        {
+            "name": "error",
+            "display_name": "Error"
+        }
+    ],
+    "output_schema": [
+        {
+            "name": "data.email_status",
+            "type": "string",
+            "description": "The status of the email sending operation."
+        }
+    ]
+}

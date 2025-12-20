@@ -1,0 +1,57 @@
+{
+    "id": "article_generator_tools",
+    "name": "Article Generator Tools",
+    "version": "1.3.0",
+    "icon_file": "icon.png",
+    "author": "AWENK AUDICO & Gemini",
+    "email": "contributor@teetah.art",
+    "website": "www.teetah.art",
+    "description": "Generates a full-length article based on a prompt using a specified AI Provider. Designed to be used by an Agent Host or as a standalone node.",
+    "category": "AI Tools",
+    "type": "PLUGIN",
+    "entry_point": "processor.ArticleGeneratorModule",
+    "tier": "pro",
+    "behaviors": [
+        "retry"
+    ],
+    "requires_services": [
+        "logger",
+        "loc",
+        "kernel",
+        "ai_provider_manager_service"
+    ],
+    "ui_schema": [
+        {
+            "component": "header",
+            "label": "AI Configuration"
+        },
+        {
+            "id": "selected_ai_provider",
+            "type": "string",
+            "component": "ai_provider_select",
+            "label": "AI Provider",
+            "default": "openai_gpt4",
+            "icon": "mdi-brain",
+            "description": "Select the AI model to use for generation."
+        },
+        {
+            "id": "prompt_source_variable",
+            "type": "string",
+            "component": "prompt_selector",
+            "label": "Prompt Template / Variable",
+            "default": "data.optimal_prompt",
+            "icon": "mdi-text-box-search-outline",
+            "description": "Select a Prompt Template from the Manager OR type a variable path (e.g., 'data.prompt')."
+        }
+    ],
+    "output_ports": [
+        {
+            "name": "success",
+            "display_name": "Success"
+        },
+        {
+            "name": "error",
+            "display_name": "Error"
+        }
+    ]
+}

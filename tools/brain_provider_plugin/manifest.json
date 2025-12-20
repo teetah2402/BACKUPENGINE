@@ -1,0 +1,50 @@
+{
+    "id": "brain_provider_plugin",
+    "name": "AI Brain Provider",
+    "version": "1.2.1",
+    "icon_file": "icon.png",
+    "author": "AWENK AUDICO",
+    "email": "Contributor@teetah.art",
+    "website": "www.teetah.art",
+    "description": "Standalone node to select an AI Provider. Connect this to an Agent Host to override its internal brain settings.",
+    "type": "PLUGIN",
+    "entry_point": "processor.BrainProviderPlugin",
+    "subtype": "BRAIN_PROVIDER",
+    "tier": "pro",
+    "requires_services": [
+        "logger",
+        "loc",
+        "kernel",
+        "ai_provider_manager_service"
+    ],
+    "ui_schema": [
+        {
+            "component": "header",
+            "label": "Brain Selection"
+        },
+        {
+            "id": "selected_ai_provider",
+            "type": "string",
+            "label": "AI Provider ID",
+            "default": "openai_gpt4",
+            "icon": "mdi-brain",
+            "description": "Enter the ID of the registered AI provider (e.g., 'openai_gpt4', 'ollama_llama3')."
+        },
+        {
+            "id": "system_instruction_override",
+            "type": "textarea",
+            "label": "System Instruction Override (Optional)",
+            "placeholder": "You are a helpful assistant...",
+            "icon": "mdi-script-text-outline",
+            "description": "Force a specific persona/instruction for this brain instance."
+        }
+    ],
+    "output_ports": [
+        {
+            "name": "brain_output",
+            "display_name": "Brain Config",
+            "port_position": "top",
+            "type": "tool"
+        }
+    ]
+}

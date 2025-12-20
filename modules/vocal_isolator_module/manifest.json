@@ -1,0 +1,88 @@
+{
+    "id": "vocal_isolator_module",
+    "name": "Vocal Isolator Pro (MDX)",
+    "version": "2.3.0",
+    "icon_file": "icon.png",
+    "author": "Flowork Dev",
+    "description": "Next-Gen Vocal Separation using MDX-Net & ONNX.",
+    "type": "ACTION",
+    "entry_point": "processor.VocalIsolatorModule",
+    "tier": "free",
+    "behaviors": [
+        "retry",
+        "loop"
+    ],
+    "requires_services": [
+        "logger",
+        "kernel"
+    ],
+    "ui_schema": [
+        {
+            "id": "audio_path",
+            "type": "file",
+            "label": "Input Audio File",
+            "icon": "mdi-music-note",
+            "description": "Select the song (.mp3, .wav, .flac)",
+            "accept": ".mp3,.wav,.flac,.m4a,.ogg",
+            "required": true
+        },
+        {
+            "id": "output_folder",
+            "type": "string",
+            "label": "Output Folder",
+            "component": "folder_picker",
+            "default": "./storage/separated_audio",
+            "icon": "mdi-folder-download",
+            "description": "Where to save the result.",
+            "required": true
+        },
+        {
+            "id": "model_name",
+            "type": "select",
+            "label": "AI Model (MDX-Net)",
+            "default": "UVR_MDXNET_KARA_2",
+            "icon": "mdi-layers-triple",
+            "options": [
+                "UVR_MDXNET_KARA_2",
+                "Kim_Vocal_2",
+                "UVR-MDX-NET-Inst_HQ_3"
+            ],
+            "description": "KARA_2 = Balanced (Best). Kim_Vocal = Aggressive Vocals. Inst_HQ = Clean Instrumental."
+        },
+        {
+            "id": "output_format",
+            "type": "select",
+            "label": "Output Format",
+            "default": "wav",
+            "icon": "mdi-file-convert",
+            "options": [
+                "wav",
+                "mp3",
+                "flac"
+            ],
+            "description": "WAV/FLAC for quality, MP3 for size."
+        }
+    ],
+    "output_ports": [
+        {
+            "name": "success",
+            "display_name": "Success"
+        },
+        {
+            "name": "error",
+            "display_name": "Error"
+        }
+    ],
+    "output_schema": [
+        {
+            "name": "data.vocals_path",
+            "type": "string",
+            "description": "Path to the extracted vocal file."
+        },
+        {
+            "name": "data.accompaniment_path",
+            "type": "string",
+            "description": "Path to the extracted music file."
+        }
+    ]
+}

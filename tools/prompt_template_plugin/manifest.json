@@ -1,0 +1,67 @@
+{
+    "id": "image_generator_tools",
+    "name": "Image Generator Tools",
+    "version": "1.2.0",
+    "icon_file": "icon.png",
+    "author": "AWENK AUDICO & Gemini",
+    "email": "contributor@teetah.art",
+    "website": "www.teetah.art",
+    "description": "Generates images based on a text prompt found in the payload. Uses the system's default Image AI Provider unless overridden.",
+    "category": "AI Tools",
+    "type": "PLUGIN",
+    "entry_point": "processor.ImageGeneratorModule",
+    "tier": "pro",
+    "behaviors": [
+        "retry"
+    ],
+    "requires_services": [
+        "logger",
+        "loc",
+        "kernel",
+        "ai_provider_manager_service"
+    ],
+    "ui_schema": [
+        {
+            "component": "header",
+            "label": "Source Configuration"
+        },
+        {
+            "id": "prompt_source_variable",
+            "type": "string",
+            "label": "Prompt Variable Path",
+            "default": "data.prompt_gambar",
+            "icon": "mdi-variable",
+            "description": "Where to find the image prompt in the payload (e.g. 'data.prompt' or 'data.agent_final_answer')."
+        },
+        {
+            "component": "header",
+            "label": "Model Settings"
+        },
+        {
+            "id": "provider_override",
+            "type": "string",
+            "label": "AI Provider ID (Optional)",
+            "placeholder": "Leave empty for System Default",
+            "icon": "mdi-robot-confused-outline",
+            "description": "Force use of a specific provider (e.g., 'openai_dalle3', 'stability_sdxl'). If empty, uses the global default for Image tasks."
+        }
+    ],
+    "output_ports": [
+        {
+            "name": "success",
+            "display_name": "Success",
+            "port_position": "top"
+        },
+        {
+            "name": "error",
+            "display_name": "Error"
+        }
+    ],
+    "output_schema": [
+        {
+            "name": "data.generated_image_path",
+            "type": "string",
+            "description": "The local path or URL to the generated image."
+        }
+    ]
+}

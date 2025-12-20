@@ -1,0 +1,3821 @@
+[
+  {
+    "id": "bc239d5e-85c4-48fc-b63a-dde4a808ff21",
+    "prompt": "Apa itu Flowork?",
+    "response": "Flowork adalah platform otomatisasi workflow visual dan orkestrasi AI mandiri (self-hosted) yang dirancang sebagai alternatif open-source untuk Zapier atau Make.com, dengan fokus pada privasi data dan kustomisasi tanpa batas.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork adalah platform otomatisasi workflow visual dan orkestrasi AI mandiri (self-hosted) yang dirancang sebagai alternatif open-source untuk Zapier atau Make.com, dengan fokus pada privasi data dan kustomisasi tanpa batas."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "7b25b2ca-c0c8-4faa-91e7-e46e3315b6b1",
+    "prompt": "Siapa yang cocok menggunakan Flowork?",
+    "response": "Flowork cocok untuk developer, engineer AI, dan perusahaan yang membutuhkan otomatisasi workflow privat tanpa mengirim data sensitif ke cloud pihak ketiga.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa yang cocok menggunakan Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork cocok untuk developer, engineer AI, dan perusahaan yang membutuhkan otomatisasi workflow privat tanpa mengirim data sensitif ke cloud pihak ketiga."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "abf752fc-5094-4810-86ea-00369b76f18f",
+    "prompt": "Apa perbedaan utama Flowork dengan LangChain?",
+    "response": "LangChain adalah library kode, sedangkan Flowork adalah platform full-stack dengan GUI visual (Designer), manajemen state, dan orkestrasi multi-service yang siap pakai tanpa coding berat.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa perbedaan utama Flowork dengan LangChain?"
+      },
+      {
+        "role": "assistant",
+        "content": "LangChain adalah library kode, sedangkan Flowork adalah platform full-stack dengan GUI visual (Designer), manajemen state, dan orkestrasi multi-service yang siap pakai tanpa coding berat."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "66f02d39-5414-4571-8f20-054003960dbd",
+    "prompt": "Apakah Flowork berbayar?",
+    "response": "Versi Flowork Community Edition adalah gratis dan open-source. Namun, terdapat lisensi Enterprise untuk fitur tambahan seperti SSO dan support prioritas.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork berbayar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Versi Flowork Community Edition adalah gratis dan open-source. Namun, terdapat lisensi Enterprise untuk fitur tambahan seperti SSO dan support prioritas."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "100b3037-058f-4bd4-a11a-ab53fb3a2a14",
+    "prompt": "Bagaimana lisensi Flowork?",
+    "response": "Flowork menggunakan lisensi BSL (Business Source License) atau lisensi proprietari tergantung modulnya, yang melindungi kekayaan intelektual sambil memungkinkan penggunaan komunitas.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana lisensi Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork menggunakan lisensi BSL (Business Source License) atau lisensi proprietari tergantung modulnya, yang melindungi kekayaan intelektual sambil memungkinkan penggunaan komunitas."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "1b63fb32-29cf-4378-87c3-47a48b8b13e8",
+    "prompt": "Apa keunggulan Flowork dibanding Zapier?",
+    "response": "Flowork berjalan di server Anda sendiri (Self-Hosted), tidak ada batasan 'Task' bulanan, mendukung eksekusi Python/Bash native, dan memiliki integrasi AI lokal (LLaMA/SD) tanpa biaya API tambahan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa keunggulan Flowork dibanding Zapier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork berjalan di server Anda sendiri (Self-Hosted), tidak ada batasan 'Task' bulanan, mendukung eksekusi Python/Bash native, dan memiliki integrasi AI lokal (LLaMA/SD) tanpa biaya API tambahan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "cc817996-827b-4470-aa88-7ba1d51ab84e",
+    "prompt": "Sistem operasi apa yang didukung Flowork?",
+    "response": "Flowork dirancang untuk berjalan di Linux (Ubuntu/Debian) dan Windows (via Docker atau Native Python), serta mendukung arsitektur x86_64 dan ARM64 (seperti Apple Silicon).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Sistem operasi apa yang didukung Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork dirancang untuk berjalan di Linux (Ubuntu/Debian) dan Windows (via Docker atau Native Python), serta mendukung arsitektur x86_64 dan ARM64 (seperti Apple Silicon)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "743aa4bf-c56b-4da1-8764-b1fb59cde850",
+    "prompt": "Apa itu 'Flowork Community'?",
+    "response": "Komunitas pengguna dan pengembang Flowork yang berkontribusi pada modul, plugin, dan diskusi di forum atau Discord resmi Flowork.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Flowork Community'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komunitas pengguna dan pengembang Flowork yang berkontribusi pada modul, plugin, dan diskusi di forum atau Discord resmi Flowork."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "919fdb08-d990-4336-97cf-f7b791d7145e",
+    "prompt": "Bagaimana cara instalasi Flowork paling mudah?",
+    "response": "Cara termudah adalah menggunakan Docker Compose. Cukup unduh file `docker-compose.yml` resmi dan jalankan `docker-compose up -d`.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara instalasi Flowork paling mudah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cara termudah adalah menggunakan Docker Compose. Cukup unduh file `docker-compose.yml` resmi dan jalankan `docker-compose up -d`."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "068873a2-30ee-4ce0-8942-4860f6c1fdc2",
+    "prompt": "Apakah Flowork membutuhkan koneksi internet?",
+    "response": "Tidak mutlak. Flowork bisa berjalan di jaringan lokal (Intranet/Air-gapped). Internet hanya dibutuhkan jika Anda ingin mengunduh update, model AI baru, atau memanggil API publik.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork membutuhkan koneksi internet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak mutlak. Flowork bisa berjalan di jaringan lokal (Intranet/Air-gapped). Internet hanya dibutuhkan jika Anda ingin mengunduh update, model AI baru, atau memanggil API publik."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "dfc94266-33c3-4237-ab26-214f60ac7587",
+    "prompt": "Jelaskan arsitektur dasar Flowork!",
+    "response": "Flowork terdiri dari 'Core' (mesin eksekusi Python), 'Gateway' (API Router & Auth), dan 'GUI' (Vue.js Frontend). Komunikasi antar layanan menggunakan HTTP REST dan WebSockets.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jelaskan arsitektur dasar Flowork!"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork terdiri dari 'Core' (mesin eksekusi Python), 'Gateway' (API Router & Auth), dan 'GUI' (Vue.js Frontend). Komunikasi antar layanan menggunakan HTTP REST dan WebSockets."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "02c94968-38a5-47c0-8eec-7a1a371d303e",
+    "prompt": "Apa fungsi Flowork Gateway?",
+    "response": "Gateway bertugas sebagai pintu gerbang keamanan, menangani autentikasi user, load balancing, dan merutekan request ke instance Core yang tepat berdasarkan Engine ID.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi Flowork Gateway?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gateway bertugas sebagai pintu gerbang keamanan, menangani autentikasi user, load balancing, dan merutekan request ke instance Core yang tepat berdasarkan Engine ID."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8852e35f-ac63-4bb7-bbbf-f400aa519618",
+    "prompt": "Apa itu Engine ID?",
+    "response": "Engine ID adalah identitas unik untuk setiap instance Flowork Core. Ini memungkinkan Gateway mengelola ribuan mesin Core yang berbeda secara terpusat.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Engine ID?"
+      },
+      {
+        "role": "assistant",
+        "content": "Engine ID adalah identitas unik untuk setiap instance Flowork Core. Ini memungkinkan Gateway mengelola ribuan mesin Core yang berbeda secara terpusat."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "7b6e7a8e-1f40-4f77-8ba8-ea90d3f2a07f",
+    "prompt": "Di mana Flowork menyimpan data workflow?",
+    "response": "Data workflow disimpan dalam bentuk file JSON di sistem file lokal (`data/workflows`) dan metadata di database SQLite/PostgreSQL, memastikan portabilitas dan kemudahan backup.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana Flowork menyimpan data workflow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Data workflow disimpan dalam bentuk file JSON di sistem file lokal (`data/workflows`) dan metadata di database SQLite/PostgreSQL, memastikan portabilitas dan kemudahan backup."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d724274b-e52c-45bb-9081-2e8bf489f7b8",
+    "prompt": "Apa itu 'Event Bus' di Flowork?",
+    "response": "Event Bus adalah sistem pesan internal berbasis Socket.IO/Redis yang memungkinkan modul-modul di Flowork saling berkomunikasi secara asinkron (real-time) tanpa saling memblokir proses.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Event Bus' di Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Event Bus adalah sistem pesan internal berbasis Socket.IO/Redis yang memungkinkan modul-modul di Flowork saling berkomunikasi secara asinkron (real-time) tanpa saling memblokir proses."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "ab258212-9306-4fcb-9f37-c2736f0dd0fc",
+    "prompt": "Apa peran 'Worker Pool' dalam arsitektur Flowork?",
+    "response": "Worker Pool mengelola sekumpulan proses Python yang standby untuk mengeksekusi tugas workflow secara paralel, meningkatkan throughput dan responsivitas sistem.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran 'Worker Pool' dalam arsitektur Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Worker Pool mengelola sekumpulan proses Python yang standby untuk mengeksekusi tugas workflow secara paralel, meningkatkan throughput dan responsivitas sistem."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f3cf6d54-b23f-44c4-b511-89a39d416f91",
+    "prompt": "Bagaimana Flowork menangani skalabilitas?",
+    "response": "Flowork mendukung mode 'Swarm' di mana Anda bisa menjalankan banyak instance Core di server berbeda yang semuanya terhubung ke satu Gateway pusat.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana Flowork menangani skalabilitas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork mendukung mode 'Swarm' di mana Anda bisa menjalankan banyak instance Core di server berbeda yang semuanya terhubung ke satu Gateway pusat."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "7c9f673f-0830-4c10-afbb-ad2ca4c3e069",
+    "prompt": "Apa itu 'Heartbeat Mechanism'?",
+    "response": "Setiap Core mengirimkan sinyal 'detak jantung' ke Gateway setiap beberapa detik. Jika Gateway tidak menerima sinyal, ia akan menandai Core tersebut offline.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Heartbeat Mechanism'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setiap Core mengirimkan sinyal 'detak jantung' ke Gateway setiap beberapa detik. Jika Gateway tidak menerima sinyal, ia akan menandai Core tersebut offline."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e82d8c2d-ebdc-4042-ab3c-7fe543a89627",
+    "prompt": "Apakah Flowork menggunakan Microservices?",
+    "response": "Ya, arsitektur Flowork bersifat modular. Layanan seperti AI Provider, Database, dan Scheduler berjalan sebagai komponen terpisah yang saling terhubung.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork menggunakan Microservices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, arsitektur Flowork bersifat modular. Layanan seperti AI Provider, Database, dan Scheduler berjalan sebagai komponen terpisah yang saling terhubung."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2052cdee-f784-4dc5-9973-6792ca4162ae",
+    "prompt": "Bahasa pemrograman apa yang digunakan Flowork?",
+    "response": "Backend (Core & Gateway) ditulis menggunakan Python (Flask/Asyncio), sedangkan Frontend (GUI) dibangun dengan Vue.js 3 dan Vite.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bahasa pemrograman apa yang digunakan Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Backend (Core & Gateway) ditulis menggunakan Python (Flask/Asyncio), sedangkan Frontend (GUI) dibangun dengan Vue.js 3 dan Vite."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a69dcf01-dfca-44b7-b5c3-41df582bac4e",
+    "prompt": "Apa itu AI Trainer di Flowork?",
+    "response": "AI Trainer adalah modul GUI untuk melakukan fine-tuning model LLM (seperti LLaMA/Mistral) menggunakan teknik efisien seperti LoRA/QLoRA langsung dari browser.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu AI Trainer di Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI Trainer adalah modul GUI untuk melakukan fine-tuning model LLM (seperti LLaMA/Mistral) menggunakan teknik efisien seperti LoRA/QLoRA langsung dari browser."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "26ede727-1d1c-49cc-898a-8a4ad92a384a",
+    "prompt": "Format data apa yang digunakan untuk training?",
+    "response": "Flowork menggunakan format JSON standar industri (mirip ShareGPT/OpenAI) di mana data disusun sebagai list pesan dengan role 'user' dan 'assistant'.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Format data apa yang digunakan untuk training?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork menggunakan format JSON standar industri (mirip ShareGPT/OpenAI) di mana data disusun sebagai list pesan dengan role 'user' dan 'assistant'."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "438cc980-71ef-4dd4-a3a3-285df09c8551",
+    "prompt": "Apa itu LoRA?",
+    "response": "LoRA (Low-Rank Adaptation) adalah teknik fine-tuning yang membekukan bobot model utama dan hanya melatih lapisan adaptor kecil, sehingga hemat memori GPU dan penyimpanan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu LoRA?"
+      },
+      {
+        "role": "assistant",
+        "content": "LoRA (Low-Rank Adaptation) adalah teknik fine-tuning yang membekukan bobot model utama dan hanya melatih lapisan adaptor kecil, sehingga hemat memori GPU dan penyimpanan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6cd50086-54fa-4bfe-8e05-eb674624bb8c",
+    "prompt": "Bagaimana cara menambahkan model GGUF ke Flowork?",
+    "response": "Upload file .gguf ke folder `flowork_kernel/ai_models/text/`. Sistem akan otomatis mendeteksi dan menampilkannya di dropdown AI Center.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara menambahkan model GGUF ke Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Upload file .gguf ke folder `flowork_kernel/ai_models/text/`. Sistem akan otomatis mendeteksi dan menampilkannya di dropdown AI Center."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6d10eed2-c410-4f2b-8170-72e19cea0a39",
+    "prompt": "Apa bedanya Pre-training dan Fine-tuning?",
+    "response": "Pre-training melatih model dari nol dengan triliunan data (mahal). Fine-tuning (yang dilakukan Flowork) menyesuaikan model yang sudah pintar agar ahli dalam tugas spesifik menggunakan data Anda.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa bedanya Pre-training dan Fine-tuning?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pre-training melatih model dari nol dengan triliunan data (mahal). Fine-tuning (yang dilakukan Flowork) menyesuaikan model yang sudah pintar agar ahli dalam tugas spesifik menggunakan data Anda."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "96a419fc-2ebf-48c1-9cfc-f266e9f1da4a",
+    "prompt": "Kenapa training saya error 'OOM'?",
+    "response": "OOM (Out Of Memory) berarti VRAM GPU Anda habis. Solusinya: kurangi 'Batch Size' ke 1, gunakan model terkuantisasi (4-bit), atau gunakan GPU dengan VRAM lebih besar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kenapa training saya error 'OOM'?"
+      },
+      {
+        "role": "assistant",
+        "content": "OOM (Out Of Memory) berarti VRAM GPU Anda habis. Solusinya: kurangi 'Batch Size' ke 1, gunakan model terkuantisasi (4-bit), atau gunakan GPU dengan VRAM lebih besar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "3e4b080b-7a2c-44d4-a748-f275ad7477a3",
+    "prompt": "Apa itu Quantization?",
+    "response": "Quantization adalah proses mengurangi presisi angka dalam model (misal dari 16-bit ke 4-bit) untuk mengecilkan ukuran file dan mempercepat inferensi dengan sedikit penurunan kualitas.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Quantization?"
+      },
+      {
+        "role": "assistant",
+        "content": "Quantization adalah proses mengurangi presisi angka dalam model (misal dari 16-bit ke 4-bit) untuk mengecilkan ukuran file dan mempercepat inferensi dengan sedikit penurunan kualitas."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "ae54e24b-6cb6-4008-94cd-de7f1e017a0e",
+    "prompt": "Bisakah Flowork melatih model Image Generation?",
+    "response": "Saat ini fokus utama AI Trainer adalah LLM (Teks), namun modul untuk fine-tuning Stable Diffusion (LoRA/Dreambooth) sedang dalam roadmap pengembangan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah Flowork melatih model Image Generation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saat ini fokus utama AI Trainer adalah LLM (Teks), namun modul untuk fine-tuning Stable Diffusion (LoRA/Dreambooth) sedang dalam roadmap pengembangan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2136b9c6-b69b-4347-b3db-15cc44886fb0",
+    "prompt": "Apa fungsi tab Monitor di AI Trainer?",
+    "response": "Tab Monitor menampilkan log streaming real-time dari proses training dan grafik Loss untuk memantau apakah model sedang belajar dengan benar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi tab Monitor di AI Trainer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tab Monitor menampilkan log streaming real-time dari proses training dan grafik Loss untuk memantau apakah model sedang belajar dengan benar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a035a343-7d61-4282-93f5-d4127d65914e",
+    "prompt": "Bagaimana cara mengekspor model hasil training?",
+    "response": "Gunakan fitur 'Factory' di AI Trainer untuk menggabungkan (merge) adapter LoRA dengan base model dan mengonversinya menjadi format GGUF agar bisa dipakai chat.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengekspor model hasil training?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan fitur 'Factory' di AI Trainer untuk menggabungkan (merge) adapter LoRA dengan base model dan mengonversinya menjadi format GGUF agar bisa dipakai chat."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "564f9513-2d5d-4323-8a00-77a27a2f8338",
+    "prompt": "Apa itu 'Epoch' dalam training?",
+    "response": "Epoch adalah satu putaran penuh di mana model melihat seluruh dataset training. Biasanya 1-3 epoch cukup untuk fine-tuning agar tidak overfit.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Epoch' dalam training?"
+      },
+      {
+        "role": "assistant",
+        "content": "Epoch adalah satu putaran penuh di mana model melihat seluruh dataset training. Biasanya 1-3 epoch cukup untuk fine-tuning agar tidak overfit."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f8a7f36f-313a-401d-9c26-ace73896cf64",
+    "prompt": "Apa fungsi 'Learning Rate'?",
+    "response": "Learning Rate menentukan seberapa cepat model mengubah pengetahuannya. Nilai terlalu besar bikin model tidak stabil, terlalu kecil bikin lambat belajar. Default aman adalah 2e-4.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Learning Rate'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Learning Rate menentukan seberapa cepat model mengubah pengetahuannya. Nilai terlalu besar bikin model tidak stabil, terlalu kecil bikin lambat belajar. Default aman adalah 2e-4."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "83731e9f-f0a8-49a2-80a8-29faee032e42",
+    "prompt": "Bisakah saya training tanpa GPU?",
+    "response": "Bisa, tetapi SANGAT lambat. Flowork akan menggunakan CPU mode, namun disarankan minimal menggunakan GPU NVIDIA 8GB VRAM untuk hasil optimal.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah saya training tanpa GPU?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa, tetapi SANGAT lambat. Flowork akan menggunakan CPU mode, namun disarankan minimal menggunakan GPU NVIDIA 8GB VRAM untuk hasil optimal."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6fa053ff-1f5e-4f7e-b684-f7972327d35e",
+    "prompt": "Apa itu format dataset JSONL?",
+    "response": "JSONL (JSON Lines) adalah format di mana setiap baris adalah objek JSON valid. Ini standar untuk dataset besar, meski Flowork juga mendukung JSON Array biasa.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu format dataset JSONL?"
+      },
+      {
+        "role": "assistant",
+        "content": "JSONL (JSON Lines) adalah format di mana setiap baris adalah objek JSON valid. Ini standar untuk dataset besar, meski Flowork juga mendukung JSON Array biasa."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "39d6f9d4-3115-4c27-847c-5cb88368d4bb",
+    "prompt": "Bagaimana cara membatalkan training yang sedang berjalan?",
+    "response": "Di tab 'Monitor', klik tombol 'Stop' atau ikon sampah pada Job yang aktif. Backend akan mengirim sinyal interupsi ke worker training.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara membatalkan training yang sedang berjalan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Di tab 'Monitor', klik tombol 'Stop' atau ikon sampah pada Job yang aktif. Backend akan mengirim sinyal interupsi ke worker training."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "79779865-b621-4815-b1a9-d83f682ff27b",
+    "prompt": "Apa itu Modul di Flowork?",
+    "response": "Modul adalah paket fungsionalitas mandiri (seperti 'Google Sheets', 'PDF Parser') yang berisi sekumpulan Node yang bisa dipakai di Designer.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Modul di Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul adalah paket fungsionalitas mandiri (seperti 'Google Sheets', 'PDF Parser') yang berisi sekumpulan Node yang bisa dipakai di Designer."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d93d9563-b001-4c9d-b3bc-887ffbe693b3",
+    "prompt": "Apa itu Trigger Node?",
+    "response": "Trigger Node adalah titik awal workflow. Ia 'mendengarkan' kejadian tertentu (misal: webhook masuk, jam 8 pagi, file baru) untuk memulai eksekusi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Trigger Node?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trigger Node adalah titik awal workflow. Ia 'mendengarkan' kejadian tertentu (misal: webhook masuk, jam 8 pagi, file baru) untuk memulai eksekusi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "de23c07b-a7c4-4a59-8d67-ca0535537709",
+    "prompt": "Bagaimana cara membuat modul custom?",
+    "response": "Gunakan 'Component Forge' (sebelumnya Module Factory) untuk membuat definisi modul baru, menulis logika Python-nya, dan mendesain input/output secara visual.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara membuat modul custom?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan 'Component Forge' (sebelumnya Module Factory) untuk membuat definisi modul baru, menulis logika Python-nya, dan mendesain input/output secara visual."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8032b3a4-2a50-4d51-9a05-7ee9ba1a80ef",
+    "prompt": "Apa fungsi node 'Dynamic Stitcher'?",
+    "response": "Dynamic Stitcher berfungsi menggabungkan berbagai input media (video, audio, gambar) menjadi satu timeline video yang koheren secara otomatis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi node 'Dynamic Stitcher'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dynamic Stitcher berfungsi menggabungkan berbagai input media (video, audio, gambar) menjadi satu timeline video yang koheren secara otomatis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0ac07e24-4a23-4701-85b3-8c2c52971a3f",
+    "prompt": "Bisakah saya menjalankan kode Python di dalam workflow?",
+    "response": "Bisa. Gunakan node 'Python Script' untuk mengeksekusi snippet kode kustom di tengah-tengah alur workflow Anda.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah saya menjalankan kode Python di dalam workflow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Gunakan node 'Python Script' untuk mengeksekusi snippet kode kustom di tengah-tengah alur workflow Anda."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a8c79ff1-2feb-4860-8aef-ab0605225836",
+    "prompt": "Apa itu 'Cron Trigger'?",
+    "response": "Cron Trigger adalah node pemicu berbasis waktu. Anda bisa mengatur jadwal (misal: setiap Senin jam 9) menggunakan sintaks Cron standar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Cron Trigger'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cron Trigger adalah node pemicu berbasis waktu. Anda bisa mengatur jadwal (misal: setiap Senin jam 9) menggunakan sintaks Cron standar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "57e35d46-ba29-4d18-b947-4deffee1d2ec",
+    "prompt": "Bagaimana cara HTTP Request Node bekerja?",
+    "response": "Node ini memungkinkan Flowork mengirim permintaan API (GET, POST, PUT, DELETE) ke layanan eksternal mana pun, mirip dengan Postman.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara HTTP Request Node bekerja?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node ini memungkinkan Flowork mengirim permintaan API (GET, POST, PUT, DELETE) ke layanan eksternal mana pun, mirip dengan Postman."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0856f679-2c7d-4881-b067-c59689748db4",
+    "prompt": "Apa itu 'Prompt Receiver Module'?",
+    "response": "Modul ini bertindak sebagai endpoint untuk menerima input teks dari user (misalnya dari chatbot eksternal) dan meneruskannya ke dalam workflow.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Prompt Receiver Module'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul ini bertindak sebagai endpoint untuk menerima input teks dari user (misalnya dari chatbot eksternal) dan meneruskannya ke dalam workflow."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e0c994f7-2d67-4a6f-930b-ffa889f7ec4c",
+    "prompt": "Jelaskan fungsi 'Golden Moment Clipper'!",
+    "response": "Modul ini menggunakan AI untuk menganalisis video panjang dan secara otomatis memotong bagian-bagian 'emas' (highlight) yang paling menarik.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Jelaskan fungsi 'Golden Moment Clipper'!"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul ini menggunakan AI untuk menganalisis video panjang dan secara otomatis memotong bagian-bagian 'emas' (highlight) yang paling menarik."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f0f12bea-b6e7-4502-8a51-b7f357b1db20",
+    "prompt": "Apa itu 'Loop Handler'?",
+    "response": "Loop Handler adalah logika eksekusi yang memungkinkan workflow memproses daftar item satu per satu (iterasi), misalnya memproses 100 baris dari file CSV.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Loop Handler'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loop Handler adalah logika eksekusi yang memungkinkan workflow memproses daftar item satu per satu (iterasi), misalnya memproses 100 baris dari file CSV."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "59315494-89ba-4551-bbc0-860fee7df02b",
+    "prompt": "Apa fungsi 'Switch Node'?",
+    "response": "Switch Node digunakan untuk percabangan logika (If-Else). Alur workflow akan berbelok ke jalur yang berbeda tergantung kondisi data yang masuk.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Switch Node'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Switch Node digunakan untuk percabangan logika (If-Else). Alur workflow akan berbelok ke jalur yang berbeda tergantung kondisi data yang masuk."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8b283d41-4ecc-48bf-a7d4-cb7fc3e7f3c8",
+    "prompt": "Apa itu 'Delay Node'?",
+    "response": "Node sederhana untuk menunda eksekusi workflow selama beberapa detik atau menit, berguna untuk rate-limiting atau menunggu proses eksternal selesai.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Delay Node'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node sederhana untuk menunda eksekusi workflow selama beberapa detik atau menit, berguna untuk rate-limiting atau menunggu proses eksternal selesai."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a9c639fb-1b5a-4a09-a686-45ba99c81431",
+    "prompt": "Bagaimana cara membaca file PDF di Flowork?",
+    "response": "Gunakan modul 'Document Loader' atau 'PDF Parser'. Node ini akan mengekstrak teks dari file PDF agar bisa diproses oleh LLM.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara membaca file PDF di Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan modul 'Document Loader' atau 'PDF Parser'. Node ini akan mengekstrak teks dari file PDF agar bisa diproses oleh LLM."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "28680661-c0f4-4bef-bff4-8f559f90c02e",
+    "prompt": "Apa fungsi 'Variable Setter'?",
+    "response": "Node ini digunakan untuk menyimpan data ke dalam variabel global atau lokal workflow, sehingga bisa diakses oleh node lain di langkah selanjutnya.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Variable Setter'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node ini digunakan untuk menyimpan data ke dalam variabel global atau lokal workflow, sehingga bisa diakses oleh node lain di langkah selanjutnya."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "3f1febf0-df60-4f4f-a179-f8e91941bd89",
+    "prompt": "Apa itu 'Sub-workflow'?",
+    "response": "Sub-workflow adalah workflow yang dipanggil oleh workflow lain. Ini memungkinkan Anda membuat logika modular yang bisa digunakan kembali.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Sub-workflow'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sub-workflow adalah workflow yang dipanggil oleh workflow lain. Ini memungkinkan Anda membuat logika modular yang bisa digunakan kembali."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "4c3ea469-2116-480a-ba30-92ab500194f6",
+    "prompt": "Bagaimana cara mengirim email dari Flowork?",
+    "response": "Gunakan modul SMTP atau integrasi layanan email (seperti SendGrid/Mailgun) via HTTP Request untuk mengirim notifikasi email otomatis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengirim email dari Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan modul SMTP atau integrasi layanan email (seperti SendGrid/Mailgun) via HTTP Request untuk mengirim notifikasi email otomatis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "654d593f-dabe-4858-a05e-722ec7367dc1",
+    "prompt": "Apa itu 'Database Connector'?",
+    "response": "Modul untuk menghubungkan Flowork ke database SQL (MySQL, Postgres) atau NoSQL (MongoDB), memungkinkan operasi CRUD data.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Database Connector'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul untuk menghubungkan Flowork ke database SQL (MySQL, Postgres) atau NoSQL (MongoDB), memungkinkan operasi CRUD data."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "05e1a6ee-ea1c-41e4-b9bc-6d11ab960a20",
+    "prompt": "Fungsi 'JSON Parser' untuk apa?",
+    "response": "Node ini mengubah string teks berformat JSON menjadi objek data terstruktur yang propertinya bisa diakses oleh node selanjutnya.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Fungsi 'JSON Parser' untuk apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node ini mengubah string teks berformat JSON menjadi objek data terstruktur yang propertinya bisa diakses oleh node selanjutnya."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2f4d6c52-3bac-4aae-8384-62d614152670",
+    "prompt": "Apa itu 'Webhook Response' node?",
+    "response": "Node ini digunakan untuk mengirim balasan (Response HTTP 200/404/dll) kembali ke pengirim webhook setelah workflow selesai memproses data.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Webhook Response' node?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node ini digunakan untuk mengirim balasan (Response HTTP 200/404/dll) kembali ke pengirim webhook setelah workflow selesai memproses data."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "7bf36050-78d2-4cf6-ac04-1795fcab8aa7",
+    "prompt": "Bagaimana cara scraping website di Flowork?",
+    "response": "Gunakan modul 'Web Scraper' atau 'Puppeteer' yang bisa membuka halaman web, merender JavaScript, dan mengambil konten HTML-nya.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara scraping website di Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan modul 'Web Scraper' atau 'Puppeteer' yang bisa membuka halaman web, merender JavaScript, dan mengambil konten HTML-nya."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d12134e5-2e92-4602-92e1-f011acc4f14a",
+    "prompt": "Apa itu 'RSS Feed Trigger'?",
+    "response": "Trigger yang memantau feed RSS/Atom dari blog atau berita. Workflow akan jalan otomatis setiap kali ada artikel baru yang terbit.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'RSS Feed Trigger'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trigger yang memantau feed RSS/Atom dari blog atau berita. Workflow akan jalan otomatis setiap kali ada artikel baru yang terbit."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6e67dcef-ed1a-424c-aa34-f88455591472",
+    "prompt": "Fungsi 'Regex Extractor'?",
+    "response": "Node untuk mengekstrak pola teks tertentu (seperti email, nomor telepon, atau ID transaksi) menggunakan Regular Expression.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Fungsi 'Regex Extractor'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node untuk mengekstrak pola teks tertentu (seperti email, nomor telepon, atau ID transaksi) menggunakan Regular Expression."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "b8c19732-e584-4e59-a040-a69c3773cb85",
+    "prompt": "Apa itu 'File Watcher Trigger'?",
+    "response": "Trigger yang memantau folder tertentu di server. Workflow akan aktif jika ada file baru yang dibuat atau dimodifikasi di folder tersebut.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'File Watcher Trigger'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trigger yang memantau folder tertentu di server. Workflow akan aktif jika ada file baru yang dibuat atau dimodifikasi di folder tersebut."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e2a97827-efd2-4792-96af-b54d1d2ac919",
+    "prompt": "Bagaimana cara kompresi gambar di Flowork?",
+    "response": "Gunakan modul 'Image Processor' yang mendukung resize, crop, convert format, dan kompresi gambar menggunakan library Pillow/Sharp.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara kompresi gambar di Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan modul 'Image Processor' yang mendukung resize, crop, convert format, dan kompresi gambar menggunakan library Pillow/Sharp."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d9d6349e-da71-4870-aa97-765bfd13d215",
+    "prompt": "Apa itu 'Merge Node'?",
+    "response": "Node untuk menggabungkan kembali beberapa jalur eksekusi paralel menjadi satu jalur tunggal.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Merge Node'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Node untuk menggabungkan kembali beberapa jalur eksekusi paralel menjadi satu jalur tunggal."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "bd5fc447-64e1-405a-bdf2-c69a4511afb9",
+    "prompt": "Bagaimana Flowork mengamankan API Key?",
+    "response": "Flowork menggunakan 'Env Guard' untuk mengenkripsi variabel lingkungan (Environment Variables) dan menyimpannya secara aman, tidak pernah hardcode di file workflow.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana Flowork mengamankan API Key?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork menggunakan 'Env Guard' untuk mengenkripsi variabel lingkungan (Environment Variables) dan menyimpannya secara aman, tidak pernah hardcode di file workflow."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a1347988-35ea-4523-8df2-d061eff744d2",
+    "prompt": "Apa itu 'Integrity Checker'?",
+    "response": "Service background yang secara berkala memindai file inti Flowork untuk memastikan tidak ada file yang korup atau dimodifikasi secara ilegal.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Integrity Checker'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Service background yang secara berkala memindai file inti Flowork untuk memastikan tidak ada file yang korup atau dimodifikasi secara ilegal."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "bda41106-b185-4306-8ca5-41bb36dfb4f1",
+    "prompt": "Bagaimana cara backup Flowork?",
+    "response": "Jalankan script `backup.py` yang disediakan. Ini akan mengarsipkan folder `data/`, database, dan konfigurasi penting ke dalam file zip.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara backup Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jalankan script `backup.py` yang disediakan. Ini akan mengarsipkan folder `data/`, database, dan konfigurasi penting ke dalam file zip."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "c8b52303-1822-4905-b13c-6f7efed971d5",
+    "prompt": "Apakah Flowork mendukung Docker?",
+    "response": "Ya, Flowork menyediakan `docker-compose.yml` resmi untuk deployment kontainer yang mudah, terisolasi, dan skalabel.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork mendukung Docker?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, Flowork menyediakan `docker-compose.yml` resmi untuk deployment kontainer yang mudah, terisolasi, dan skalabel."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "eb6919ee-b00b-44b9-95df-28b99e28a21a",
+    "prompt": "Bagaimana cara reset password admin?",
+    "response": "Gunakan script CLI `create_admin.py` atau akses database Gateway secara langsung untuk mereset kredensial user.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara reset password admin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan script CLI `create_admin.py` atau akses database Gateway secara langsung untuk mereset kredensial user."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "9ec431c3-eaca-448e-8d6d-25cf45e6a01e",
+    "prompt": "Apa itu 'Permission Hook'?",
+    "response": "Sistem yang memverifikasi apakah user memiliki hak akses (role) yang cukup sebelum mengeksekusi aksi sensitif seperti menghapus engine atau mengedit workflow.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Permission Hook'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sistem yang memverifikasi apakah user memiliki hak akses (role) yang cukup sebelum mengeksekusi aksi sensitif seperti menghapus engine atau mengedit workflow."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a6ec476a-05a6-4201-b0ae-6ae7435516ac",
+    "prompt": "Bisakah Flowork berjalan offline (Air-gapped)?",
+    "response": "Sangat bisa. Karena self-hosted, Flowork tidak butuh koneksi internet untuk beroperasi, kecuali jika workflow Anda memanggil API publik.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah Flowork berjalan offline (Air-gapped)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangat bisa. Karena self-hosted, Flowork tidak butuh koneksi internet untuk beroperasi, kecuali jika workflow Anda memanggil API publik."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a5a98735-cd98-4ad9-9ff5-8dd7bee3fdc4",
+    "prompt": "Apa port default Flowork?",
+    "response": "Secara default, Gateway berjalan di port 8000 (atau 8080) dan GUI di port 5173 (Development) atau 80 (Production Nginx).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa port default Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Secara default, Gateway berjalan di port 8000 (atau 8080) dan GUI di port 5173 (Development) atau 80 (Production Nginx)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0ca46c7e-e04f-4855-8df4-129cc5f35057",
+    "prompt": "Bagaimana cara update Flowork?",
+    "response": "Tarik perubahan terbaru dari git (`git pull`) lalu jalankan script instalasi ulang dependensi, atau jika pakai Docker, `docker-compose pull && up -d`.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara update Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tarik perubahan terbaru dari git (`git pull`) lalu jalankan script instalasi ulang dependensi, atau jika pakai Docker, `docker-compose pull && up -d`."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "9e54a268-d4ed-49b2-86d6-4a63cb28237e",
+    "prompt": "Apa itu 'Panic Mode'?",
+    "response": "Fitur keamanan darurat yang bisa diaktifkan untuk segera menghentikan semua workflow yang sedang berjalan jika terdeteksi anomali sistem.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Panic Mode'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fitur keamanan darurat yang bisa diaktifkan untuk segera menghentikan semua workflow yang sedang berjalan jika terdeteksi anomali sistem."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6bfd97e5-b1e7-4ff9-9d61-08d75ba8ad40",
+    "prompt": "Bagaimana cara membatasi akses user?",
+    "response": "Admin dapat membuat user dengan role terbatas (misal: 'Viewer' atau 'Editor') yang tidak bisa mengakses pengaturan sistem atau menghapus data penting.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara membatasi akses user?"
+      },
+      {
+        "role": "assistant",
+        "content": "Admin dapat membuat user dengan role terbatas (misal: 'Viewer' atau 'Editor') yang tidak bisa mengakses pengaturan sistem atau menghapus data penting."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d18157de-a42c-4bec-90e3-234f360ba46d",
+    "prompt": "Apa itu 'Audit Log'?",
+    "response": "Catatan riwayat aktivitas user (siapa melakukan apa dan kapan) yang disimpan oleh sistem untuk keperluan keamanan dan debugging.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Audit Log'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Catatan riwayat aktivitas user (siapa melakukan apa dan kapan) yang disimpan oleh sistem untuk keperluan keamanan dan debugging."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "4a82b486-4f3a-4cd3-a437-91311a837901",
+    "prompt": "Apakah Flowork mendukung HTTPS?",
+    "response": "Ya, disarankan menjalankan Flowork di belakang Reverse Proxy (seperti Nginx atau Caddy) yang menangani sertifikat SSL/TLS.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork mendukung HTTPS?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, disarankan menjalankan Flowork di belakang Reverse Proxy (seperti Nginx atau Caddy) yang menangani sertifikat SSL/TLS."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "83609935-0cbb-44e0-8cc8-802ae43ff586",
+    "prompt": "Bagaimana cara membersihkan log lama?",
+    "response": "Flowork memiliki fitur 'Auto-Cleanup' atau Anda bisa menjalankan script maintenance untuk menghapus log eksekusi yang lebih tua dari X hari.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara membersihkan log lama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flowork memiliki fitur 'Auto-Cleanup' atau Anda bisa menjalankan script maintenance untuk menghapus log eksekusi yang lebih tua dari X hari."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0edd2e1c-e4e3-403e-be67-e0a11dc708bc",
+    "prompt": "Apa itu 'Sandbox Mode'?",
+    "response": "Mode eksekusi isolasi untuk node Python Script, mencegah kode berbahaya mengakses file sistem di luar direktori yang diizinkan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Sandbox Mode'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mode eksekusi isolasi untuk node Python Script, mencegah kode berbahaya mengakses file sistem di luar direktori yang diizinkan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "fdfcddbd-0e42-41ad-a04b-50f360e5a77d",
+    "prompt": "Bagaimana cara monitoring resource server?",
+    "response": "Gunakan plugin 'System Diagnostics' atau integrasi Prometheus/Grafana untuk memantau penggunaan CPU, RAM, dan Disk Flowork.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara monitoring resource server?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan plugin 'System Diagnostics' atau integrasi Prometheus/Grafana untuk memantau penggunaan CPU, RAM, dan Disk Flowork."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "eb31503f-dc5f-4535-83e6-a6bb7636dbe2",
+    "prompt": "Apa itu 'Secret Manager'?",
+    "response": "Fitur di UI untuk menyimpan kredensial (password, token) secara terenkripsi, yang kemudian bisa dipanggil di workflow sebagai variabel rahasia.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Secret Manager'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fitur di UI untuk menyimpan kredensial (password, token) secara terenkripsi, yang kemudian bisa dipanggil di workflow sebagai variabel rahasia."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2c4aeb7e-1659-4993-9dc6-1c6685a97a2a",
+    "prompt": "Bisakah membatasi rate limit API?",
+    "response": "Bisa. Gateway memiliki konfigurasi rate limiting untuk mencegah abuse API dari IP tertentu.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah membatasi rate limit API?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Gateway memiliki konfigurasi rate limiting untuk mencegah abuse API dari IP tertentu."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "5fdf2754-8213-4685-b99b-3fb7ab2cddd5",
+    "prompt": "Apa fungsi file `.env`?",
+    "response": "File konfigurasi utama untuk mengatur environment variable sistem, seperti koneksi database, port server, dan kunci enkripsi master.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi file `.env`?"
+      },
+      {
+        "role": "assistant",
+        "content": "File konfigurasi utama untuk mengatur environment variable sistem, seperti koneksi database, port server, dan kunci enkripsi master."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a9a9000d-a4f1-4dbf-91ac-57fa4e2379de",
+    "prompt": "Bagaimana mengatasi error 'Database Locked'?",
+    "response": "Ini biasanya terjadi pada SQLite jika terlalu banyak akses bersamaan. Solusinya: migrasi ke PostgreSQL atau restart service Core.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana mengatasi error 'Database Locked'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ini biasanya terjadi pada SQLite jika terlalu banyak akses bersamaan. Solusinya: migrasi ke PostgreSQL atau restart service Core."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "076e4120-27cb-4b4f-a925-758726d24b7f",
+    "prompt": "Apa fungsi 'Command Palette'?",
+    "response": "Tekan Ctrl+K untuk membuka Command Palette, menu cepat untuk navigasi ke halaman mana pun atau menjalankan aksi tanpa mouse.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Command Palette'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tekan Ctrl+K untuk membuka Command Palette, menu cepat untuk navigasi ke halaman mana pun atau menjalankan aksi tanpa mouse."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "af788e8a-ecc3-4efb-90b1-d7c6aaf4d61b",
+    "prompt": "Bagaimana cara mengubah tema (Dark/Light)?",
+    "response": "Masuk ke menu Settings -> Appearance. Flowork secara default menggunakan tema 'Black Gold' (Cyberpunk Luxury).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengubah tema (Dark/Light)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Masuk ke menu Settings -> Appearance. Flowork secara default menggunakan tema 'Black Gold' (Cyberpunk Luxury)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "3b7d8520-3a46-4991-8fba-b13e1f846f7b",
+    "prompt": "Apa itu 'Canvas Watermark'?",
+    "response": "Tanda air visual di latar belakang Designer yang menunjukkan status atau branding engine saat ini agar user sadar sedang di environment mana.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Canvas Watermark'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tanda air visual di latar belakang Designer yang menunjukkan status atau branding engine saat ini agar user sadar sedang di environment mana."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "67babf78-baa7-4219-b8ba-69df51b1ee4a",
+    "prompt": "Di mana saya bisa melihat error log?",
+    "response": "Cek 'Log Panel' di bagian bawah Designer untuk log per workflow, atau menu 'Diagnostics' untuk log sistem global.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana saya bisa melihat error log?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cek 'Log Panel' di bagian bawah Designer untuk log per workflow, atau menu 'Diagnostics' untuk log sistem global."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "44fb0690-8eb8-40c4-ab5f-8215e28a4aab",
+    "prompt": "Bisakah saya menyembunyikan sidebar?",
+    "response": "Bisa. Klik ikon panah di pojok sidebar untuk meminimalkan tampilan (Collapse) agar area kerja Canvas lebih luas.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah saya menyembunyikan sidebar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisa. Klik ikon panah di pojok sidebar untuk meminimalkan tampilan (Collapse) agar area kerja Canvas lebih luas."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f337193b-bea7-4428-aa59-4ac81bf28e56",
+    "prompt": "Apa itu 'Minimap' di Designer?",
+    "response": "Peta kecil di pojok kanvas yang memudahkan navigasi pada workflow yang sangat besar dan kompleks.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Minimap' di Designer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Peta kecil di pojok kanvas yang memudahkan navigasi pada workflow yang sangat besar dan kompleks."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "5ee5ba52-d39c-4b07-a9b8-34d5f6f0319e",
+    "prompt": "Bagaimana cara copy-paste node?",
+    "response": "Pilih node, tekan Ctrl+C, lalu Ctrl+V di area kosong kanvas. Flowork juga mendukung duplikasi node dengan klik kanan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara copy-paste node?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pilih node, tekan Ctrl+C, lalu Ctrl+V di area kosong kanvas. Flowork juga mendukung duplikasi node dengan klik kanan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "fb5ffbb0-31b2-4efc-bfd5-21511659d539",
+    "prompt": "Apa fungsi fitur 'Group Node'?",
+    "response": "Memungkinkan Anda mengelompokkan beberapa node ke dalam satu kotak visual agar tampilan workflow lebih rapi dan terorganisir.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi fitur 'Group Node'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Memungkinkan Anda mengelompokkan beberapa node ke dalam satu kotak visual agar tampilan workflow lebih rapi dan terorganisir."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a315930f-622e-4580-bf5c-661e52fecc3c",
+    "prompt": "Bagaimana cara zoom in/out di Canvas?",
+    "response": "Gunakan scroll mouse sambil menahan tombol Ctrl, atau gunakan tombol +/- yang tersedia di kontrol navigasi pojok layar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara zoom in/out di Canvas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan scroll mouse sambil menahan tombol Ctrl, atau gunakan tombol +/- yang tersedia di kontrol navigasi pojok layar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "07d44110-3ee5-489f-9d72-ba9491cf39dc",
+    "prompt": "Apa itu 'Context Menu'?",
+    "response": "Menu yang muncul saat Anda klik kanan pada node atau kanvas, menyediakan opsi cepat seperti Delete, Run Node, atau Edit Properties.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Context Menu'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menu yang muncul saat Anda klik kanan pada node atau kanvas, menyediakan opsi cepat seperti Delete, Run Node, atau Edit Properties."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "40c8f8bc-fcca-458b-a3c0-747abcb2c773",
+    "prompt": "Bisakah saya mengubah warna konektor?",
+    "response": "Ya, di pengaturan tema atau properti node, Anda bisa mengkustomisasi warna garis konektor untuk membedakan jenis aliran data.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah saya mengubah warna konektor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, di pengaturan tema atau properti node, Anda bisa mengkustomisasi warna garis konektor untuk membedakan jenis aliran data."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "9b97b733-ac72-4af5-8fb9-4e11775b0d36",
+    "prompt": "Apa itu 'Live Data View'?",
+    "response": "Fitur yang menampilkan data yang mengalir melalui konektor secara real-time saat workflow sedang berjalan dalam mode debug.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Live Data View'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fitur yang menampilkan data yang mengalir melalui konektor secara real-time saat workflow sedang berjalan dalam mode debug."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "4d19e70e-5388-4732-90c5-533a8f92ba0c",
+    "prompt": "Bagaimana cara undo/redo perubahan?",
+    "response": "Gunakan shortcut standar Ctrl+Z (Undo) dan Ctrl+Y (Redo) saat mengedit workflow di Designer.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara undo/redo perubahan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan shortcut standar Ctrl+Z (Undo) dan Ctrl+Y (Redo) saat mengedit workflow di Designer."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "ffdd2e9f-91b3-4c92-9da9-cebf6e09e7d3",
+    "prompt": "Apa fungsi tombol 'Arrange Nodes'?",
+    "response": "Tombol otomatis yang menata ulang posisi node di kanvas agar alurnya terlihat lebih rapi dan tidak tumpang tindih.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi tombol 'Arrange Nodes'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tombol otomatis yang menata ulang posisi node di kanvas agar alurnya terlihat lebih rapi dan tidak tumpang tindih."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e93be3a2-6442-42e2-8214-398027f59d37",
+    "prompt": "Apa itu 'Keyboard Shortcuts' cheat sheet?",
+    "response": "Daftar pintasan keyboard yang bisa diakses dari menu bantuan (?) untuk mempercepat workflow kerja Anda.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Keyboard Shortcuts' cheat sheet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Daftar pintasan keyboard yang bisa diakses dari menu bantuan (?) untuk mempercepat workflow kerja Anda."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2da2cef5-29a2-4648-b2ee-3e8ee6a06696",
+    "prompt": "Bagaimana cara export workflow sebagai gambar?",
+    "response": "Klik kanan di area kosong kanvas -> 'Export as PNG'. Ini berguna untuk dokumentasi atau berbagi desain workflow.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara export workflow sebagai gambar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Klik kanan di area kosong kanvas -> 'Export as PNG'. Ini berguna untuk dokumentasi atau berbagi desain workflow."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f0c30752-5bc4-45ac-8b09-d9a78a12f53e",
+    "prompt": "Apa itu 'Sticky Note' di canvas?",
+    "response": "Komponen anotasi visual yang bisa Anda tempel di kanvas untuk memberi catatan atau penjelasan pada bagian workflow tertentu.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Sticky Note' di canvas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komponen anotasi visual yang bisa Anda tempel di kanvas untuk memberi catatan atau penjelasan pada bagian workflow tertentu."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "95f5279b-5e54-4019-aefc-9e4420736917",
+    "prompt": "Bisakah saya mencari node tertentu di canvas?",
+    "response": "Ya, gunakan fitur 'Find Node' (Ctrl+F) untuk mencari node berdasarkan nama atau ID dalam workflow yang besar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah saya mencari node tertentu di canvas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, gunakan fitur 'Find Node' (Ctrl+F) untuk mencari node berdasarkan nama atau ID dalam workflow yang besar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "54221f78-4086-4dd8-b88f-125bcd2db04d",
+    "prompt": "Apa fungsi indikator status di header?",
+    "response": "Menunjukkan kesehatan koneksi ke Gateway dan Core (Hijau = Online, Merah = Offline) serta status sinkronisasi data.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi indikator status di header?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menunjukkan kesehatan koneksi ke Gateway dan Core (Hijau = Online, Merah = Offline) serta status sinkronisasi data."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e22cad06-43d6-42e5-aa01-8fb04739450a",
+    "prompt": "Bagaimana cara melihat versi Flowork saat ini?",
+    "response": "Nomor versi ditampilkan di pojok bawah menu sidebar atau di halaman 'About Us'.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara melihat versi Flowork saat ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor versi ditampilkan di pojok bawah menu sidebar atau di halaman 'About Us'."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "b1f2d6cc-42bc-4279-b54a-f15c97d1a1f5",
+    "prompt": "Apa itu Engine ID?",
+    "response": "Engine ID adalah identitas unik untuk setiap instance Flowork Core. Ini memungkinkan Gateway mengelola ribuan mesin Core yang berbeda secara terpusat.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Engine ID?"
+      },
+      {
+        "role": "assistant",
+        "content": "Engine ID adalah identitas unik untuk setiap instance Flowork Core. Ini memungkinkan Gateway mengelola ribuan mesin Core yang berbeda secara terpusat."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "09cdb21d-8984-4ed8-b537-1682f56f522d",
+    "prompt": "Bagaimana cara kerja 'Loop Handler' di Flowork Kernel?",
+    "response": "Loop Handler mengelola iterasi eksekusi node, mendukung loop statis (jumlah tetap) atau dinamis berdasarkan kondisi variabel tertentu saat runtime.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara kerja 'Loop Handler' di Flowork Kernel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Loop Handler mengelola iterasi eksekusi node, mendukung loop statis (jumlah tetap) atau dinamis berdasarkan kondisi variabel tertentu saat runtime."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "135b71c3-795d-42e9-864d-a52d43f670c1",
+    "prompt": "Apa format sintaks untuk memanggil variabel dinamis dalam properti node?",
+    "response": "Gunakan format `${nama_variabel}`. Modul 'Variable Resolver' akan menggantinya dengan nilai aktual dari memori global sebelum node dijalankan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa format sintaks untuk memanggil variabel dinamis dalam properti node?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gunakan format `${nama_variabel}`. Modul 'Variable Resolver' akan menggantinya dengan nilai aktual dari memori global sebelum node dijalankan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "78c7399c-805d-4303-98c2-fbcab1c54e9b",
+    "prompt": "Apa fungsi 'Retry Handler' ketika sebuah node mengalami error?",
+    "response": "Modul ini secara otomatis menjadwalkan ulang eksekusi node yang gagal berdasarkan parameter 'max_retries' dan 'retry_delay' yang didefinisikan dalam konfigurasi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Retry Handler' ketika sebuah node mengalami error?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul ini secara otomatis menjadwalkan ulang eksekusi node yang gagal berdasarkan parameter 'max_retries' dan 'retry_delay' yang didefinisikan dalam konfigurasi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "7857ec57-2172-45e0-a034-988aa4c2d230",
+    "prompt": "Apa itu 'Checkpoint Manager' dalam sistem eksekusi?",
+    "response": "Komponen yang menyimpan snapshot status workflow ke database secara berkala, memungkinkan proses dilanjutkan (resume) dari titik terakhir jika terjadi crash.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Checkpoint Manager' dalam sistem eksekusi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komponen yang menyimpan snapshot status workflow ke database secara berkala, memungkinkan proses dilanjutkan (resume) dari titik terakhir jika terjadi crash."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d242ed20-71c4-4215-9924-8b3edca64a99",
+    "prompt": "Bagaimana 'Job Worker' menangani antrean tugas yang masuk?",
+    "response": "Worker mengambil payload workflow dari antrean prioritas (queue), memvalidasi integritas datanya, lalu mengirimkannya ke Executor untuk diproses.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Job Worker' menangani antrean tugas yang masuk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Worker mengambil payload workflow dari antrean prioritas (queue), memvalidasi integritas datanya, lalu mengirimkannya ke Executor untuk diproses."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "47a4c0a9-1df3-446b-bde7-8f984b97e156",
+    "prompt": "Apa peran objek 'Context' selama eksekusi workflow berlangsung?",
+    "response": "Context adalah wadah memori global yang menyimpan variabel sesi, output dari node sebelumnya, dan riwayat koneksi data selama satu siklus eksekusi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran objek 'Context' selama eksekusi workflow berlangsung?"
+      },
+      {
+        "role": "assistant",
+        "content": "Context adalah wadah memori global yang menyimpan variabel sesi, output dari node sebelumnya, dan riwayat koneksi data selama satu siklus eksekusi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "cb20c86b-0692-4235-be69-6a43e4b42c6a",
+    "prompt": "Sebutkan status eksekusi (Outcome) yang valid untuk sebuah node di Flowork!",
+    "response": "Status valid meliputi: PENDING, RUNNING, SUCCESS, FAILED, dan SKIPPED (dilewati karena logika percabangan tidak terpenuhi).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Sebutkan status eksekusi (Outcome) yang valid untuk sebuah node di Flowork!"
+      },
+      {
+        "role": "assistant",
+        "content": "Status valid meliputi: PENDING, RUNNING, SUCCESS, FAILED, dan SKIPPED (dilewati karena logika percabangan tidak terpenuhi)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "366da76e-2ef9-45de-8834-2161c90494ad",
+    "prompt": "Apa fungsi 'Prewarm Service' saat Flowork Core baru dinyalakan?",
+    "response": "Layanan ini memuat model AI berat atau dependensi library penting ke dalam RAM saat startup untuk menghilangkan latensi (cold-start) pada eksekusi pertama.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Prewarm Service' saat Flowork Core baru dinyalakan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini memuat model AI berat atau dependensi library penting ke dalam RAM saat startup untuk menghilangkan latensi (cold-start) pada eksekusi pertama."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "dea88937-e59b-401e-b3c9-bfae61327201",
+    "prompt": "Apa tugas utama 'Watchdog' di dalam Kernel?",
+    "response": "Memantau kesehatan thread worker secara terus-menerus dan merestart komponen atau service yang terdeteksi macet (hang) atau memakan memori berlebih.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa tugas utama 'Watchdog' di dalam Kernel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Memantau kesehatan thread worker secara terus-menerus dan merestart komponen atau service yang terdeteksi macet (hang) atau memakan memori berlebih."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8df5046d-526c-45a3-8730-7a8aa5997abb",
+    "prompt": "Bagaimana 'FAC Enforcer' menjaga keamanan eksekusi node?",
+    "response": "FAC (File Access Control) Enforcer membatasi akses node hanya ke direktori atau resource yang secara eksplisit diizinkan dalam manifest permission.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'FAC Enforcer' menjaga keamanan eksekusi node?"
+      },
+      {
+        "role": "assistant",
+        "content": "FAC (File Access Control) Enforcer membatasi akses node hanya ke direktori atau resource yang secara eksplisit diizinkan dalam manifest permission."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "45ac3fb9-f865-4080-8d4a-f01fa3d81c5b",
+    "prompt": "Apa itu 'Event Bus Service' dalam arsitektur backend?",
+    "response": "Saluran komunikasi internal berbasis publish/subscribe yang memungkinkan berbagai service (misal: Logger, Executor) bertukar pesan sinyal secara asinkron.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Event Bus Service' dalam arsitektur backend?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saluran komunikasi internal berbasis publish/subscribe yang memungkinkan berbagai service (misal: Logger, Executor) bertukar pesan sinyal secara asinkron."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "93cc0f91-235d-4619-94bd-638e4552d542",
+    "prompt": "Service mana yang bertanggung jawab mengurutkan jalannya node?",
+    "response": "'Workflow Executor Service' menganalisis graf ketergantungan (dependency graph) dan menjadwalkan node mana yang harus jalan duluan atau paralel.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Service mana yang bertanggung jawab mengurutkan jalannya node?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Workflow Executor Service' menganalisis graf ketergantungan (dependency graph) dan menjadwalkan node mana yang harus jalan duluan atau paralel."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "c27f17c3-fabc-4d0f-831d-7304065f067c",
+    "prompt": "Mengapa ada 'AI Worker' yang terpisah dari Job Worker biasa?",
+    "response": "Untuk mengisolasi tugas inferensi AI yang berat (GPU/CPU bound) agar tidak memblokir thread utama yang menangani logika workflow ringan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mengapa ada 'AI Worker' yang terpisah dari Job Worker biasa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk mengisolasi tugas inferensi AI yang berat (GPU/CPU bound) agar tidak memblokir thread utama yang menangani logika workflow ringan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "32e14b95-27a3-401d-a9ca-9d8f724d16e6",
+    "prompt": "Bagaimana cara Flowork mengonversi format data antar node (misal JSON ke CSV)?",
+    "response": "Menggunakan 'Formatter Manager' yang secara dinamis memuat modul konverter (adapter) yang sesuai dengan tipe data input dan output yang diminta.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara Flowork mengonversi format data antar node (misal JSON ke CSV)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menggunakan 'Formatter Manager' yang secara dinamis memuat modul konverter (adapter) yang sesuai dengan tipe data input dan output yang diminta."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "1792821f-a4ee-441b-a998-55f46ff8ae2e",
+    "prompt": "Apa fungsi 'Gateway Connector Service'?",
+    "response": "Mengelola koneksi WebSocket persisten antara Core (mesin lokal) dan Gateway (server pusat) untuk streaming log dan sinkronisasi status real-time.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Gateway Connector Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mengelola koneksi WebSocket persisten antara Core (mesin lokal) dan Gateway (server pusat) untuk streaming log dan sinkronisasi status real-time."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "22355ee1-4b6a-42aa-92ae-031f2675093f",
+    "prompt": "Di mana variabel global dan environment disimpan saat runtime?",
+    "response": "Dikelola oleh 'Variable Manager Service', yang menyimpannya dalam memori (untuk sesi cepat) atau database lokal (untuk persistensi antar sesi).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana variabel global dan environment disimpan saat runtime?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dikelola oleh 'Variable Manager Service', yang menyimpannya dalam memori (untuk sesi cepat) atau database lokal (untuk persistensi antar sesi)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "60bbd54a-e5ef-4caa-bb4b-36a9ffdf119d",
+    "prompt": "Komponen apa yang memproses logika 'If/Else' pada percabangan workflow?",
+    "response": "'Condition Evaluator', sebuah utilitas yang mengevaluasi ekspresi logika (seperti perbandingan nilai atau regex) untuk menentukan jalur konektor mana yang aktif.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Komponen apa yang memproses logika 'If/Else' pada percabangan workflow?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Condition Evaluator', sebuah utilitas yang mengevaluasi ekspresi logika (seperti perbandingan nilai atau regex) untuk menentukan jalur konektor mana yang aktif."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f4abcfce-8f86-4867-a54d-817d06d49f4d",
+    "prompt": "Apa itu objek 'Payload' dalam utilitas kernel?",
+    "response": "Struktur data standar yang membungkus hasil eksekusi node (output) agar bisa ditransfer dan dibaca dengan aman oleh node berikutnya dalam rantai.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu objek 'Payload' dalam utilitas kernel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Struktur data standar yang membungkus hasil eksekusi node (output) agar bisa ditransfer dan dibaca dengan aman oleh node berikutnya dalam rantai."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "950785cf-ca99-4bf2-be96-a7714a525ed6",
+    "prompt": "Apa kegunaan modul 'Tracing Setup' di kernel?",
+    "response": "Mengaktifkan pencatatan jejak eksekusi (stack trace) mendalam untuk keperluan debugging level sistem saat terjadi crash atau error yang tidak tertangkap.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kegunaan modul 'Tracing Setup' di kernel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mengaktifkan pencatatan jejak eksekusi (stack trace) mendalam untuk keperluan debugging level sistem saat terjadi crash atau error yang tidak tertangkap."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "ae316342-854e-4b2d-9f3f-ca85aace6943",
+    "prompt": "Apakah Flowork mendukung penjadwalan tugas otomatis (Cron)?",
+    "response": "Ya, melalui 'OS Scheduler Service' yang menerjemahkan konfigurasi cron node menjadi tugas terjadwal pada sistem operasi host.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork mendukung penjadwalan tugas otomatis (Cron)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, melalui 'OS Scheduler Service' yang menerjemahkan konfigurasi cron node menjadi tugas terjadwal pada sistem operasi host."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "cbdfeaf8-07b7-4192-b0b6-6895d3284857",
+    "prompt": "Bagaimana sistem mengenali modul baru yang ditambahkan ke folder?",
+    "response": "'Module Manager Service' memindai direktori modul saat startup, memverifikasi file 'manifest.json', dan mendaftarkannya ke registry sistem agar bisa digunakan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana sistem mengenali modul baru yang ditambahkan ke folder?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Module Manager Service' memindai direktori modul saat startup, memverifikasi file 'manifest.json', dan mendaftarkannya ke registry sistem agar bisa digunakan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0397b4a0-c505-4752-a41d-6fc8c8d0f14b",
+    "prompt": "Apa fungsi 'Parser Factory' dalam eksekusi kode?",
+    "response": "Factory ini menentukan dan memuat 'Runner' yang tepat (misalnya PythonRunner untuk script .py atau BashRunner untuk command shell) berdasarkan tipe node.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Parser Factory' dalam eksekusi kode?"
+      },
+      {
+        "role": "assistant",
+        "content": "Factory ini menentukan dan memuat 'Runner' yang tepat (misalnya PythonRunner untuk script .py atau BashRunner untuk command shell) berdasarkan tipe node."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "c2617ee2-feaf-4894-89f3-f91f4e22b48d",
+    "prompt": "Apa peran modul 'Timeline'?",
+    "response": "Mencatat timestamp presisi (mulai dan selesai) untuk setiap event dalam workflow guna analisis performa dan visualisasi durasi eksekusi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran modul 'Timeline'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mencatat timestamp presisi (mulai dan selesai) untuk setiap event dalam workflow guna analisis performa dan visualisasi durasi eksekusi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "940b3bfb-6f1d-4dd2-9e0f-f5498b1c7b60",
+    "prompt": "Apa itu 'Env Guard' di folder security?",
+    "response": "Mekanisme proteksi yang mencegah akses baca/tulis sembarangan terhadap file konfigurasi sensitif (.env) oleh node yang tidak memiliki izin root.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Env Guard' di folder security?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mekanisme proteksi yang mencegah akses baca/tulis sembarangan terhadap file konfigurasi sensitif (.env) oleh node yang tidak memiliki izin root."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d59001ed-9ef1-47fa-8005-877c2ed93553",
+    "prompt": "Apa yang dimaksud dengan 'Engine ID'?",
+    "response": "Engine ID adalah UUID unik yang dibangkitkan saat instalasi Core, berfungsi sebagai identitas tunggal mesin saat berkomunikasi dengan Gateway Cloud.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang dimaksud dengan 'Engine ID'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Engine ID adalah UUID unik yang dibangkitkan saat instalasi Core, berfungsi sebagai identitas tunggal mesin saat berkomunikasi dengan Gateway Cloud."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d2af9f62-b686-49cb-84ef-1929686fbee8",
+    "prompt": "Apa peran library 'Unsloth' dalam modul training Flowork?",
+    "response": "Unsloth digunakan untuk mempercepat proses fine-tuning model LLM (Large Language Model) hingga 2x lebih cepat dengan penggunaan memori 60% lebih sedikit dibandingkan metode standar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran library 'Unsloth' dalam modul training Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unsloth digunakan untuk mempercepat proses fine-tuning model LLM (Large Language Model) hingga 2x lebih cepat dengan penggunaan memori 60% lebih sedikit dibandingkan metode standar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d120fc08-261f-442a-a031-fc68d569fc01",
+    "prompt": "Sebutkan metode training AI yang didukung oleh cache kompilasi Unsloth di sistem!",
+    "response": "Sistem mendukung berbagai metode training termasuk SFT (Supervised Fine-Tuning), DPO (Direct Preference Optimization), Reward Modeling, dan PPO (Proximal Policy Optimization).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Sebutkan metode training AI yang didukung oleh cache kompilasi Unsloth di sistem!"
+      },
+      {
+        "role": "assistant",
+        "content": "Sistem mendukung berbagai metode training termasuk SFT (Supervised Fine-Tuning), DPO (Direct Preference Optimization), Reward Modeling, dan PPO (Proximal Policy Optimization)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "947fdb3c-d4b5-4a94-afa4-291ec6b158cf",
+    "prompt": "Apa fungsi 'AI Council' dalam layanan AI Architect?",
+    "response": "AI Council adalah orkestrator yang mengelola diskusi antar beberapa persona AI (seperti Architect, Critic, Engineer) untuk merancang solusi workflow yang kompleks secara otomatis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'AI Council' dalam layanan AI Architect?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI Council adalah orkestrator yang mengelola diskusi antar beberapa persona AI (seperti Architect, Critic, Engineer) untuk merancang solusi workflow yang kompleks secara otomatis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "26af0a3c-cf61-4d9e-94bd-27b212d0acda",
+    "prompt": "Bagaimana 'AI Provider Manager' menangani berbagai layanan AI yang berbeda?",
+    "response": "Manager ini memuat provider secara dinamis dari folder 'ai_providers', menstandarisasi antarmuka input/output, dan mengelola kredensial API masing-masing provider (seperti OpenAI atau Google Gemini).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'AI Provider Manager' menangani berbagai layanan AI yang berbeda?"
+      },
+      {
+        "role": "assistant",
+        "content": "Manager ini memuat provider secara dinamis dari folder 'ai_providers', menstandarisasi antarmuka input/output, dan mengelola kredensial API masing-masing provider (seperti OpenAI atau Google Gemini)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "bda8799e-e93b-4897-94bc-a4101caf9165",
+    "prompt": "Apa itu 'Council Orchestrator'?",
+    "response": "Komponen logic yang mengatur aliran debat dan konsensus dalam AI Council, menentukan kapan diskusi dimulai, siapa yang giliran bicara, dan kapan kesimpulan blueprint workflow diambil.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Council Orchestrator'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komponen logic yang mengatur aliran debat dan konsensus dalam AI Council, menentukan kapan diskusi dimulai, siapa yang giliran bicara, dan kapan kesimpulan blueprint workflow diambil."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "aa229836-ed08-4443-9a5c-7c328abf7f99",
+    "prompt": "Bagaimana cara Flowork menyimpan dataset untuk pelatihan AI?",
+    "response": "Dataset dikelola oleh 'Dataset Manager Service' dan disimpan dalam format JSON/JSONL yang terstruktur, siap untuk diinjeksikan ke dalam pipeline training Unsloth.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara Flowork menyimpan dataset untuk pelatihan AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dataset dikelola oleh 'Dataset Manager Service' dan disimpan dalam format JSON/JSONL yang terstruktur, siap untuk diinjeksikan ke dalam pipeline training Unsloth."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6c61c249-02fd-4093-8078-f5f57bca49fc",
+    "prompt": "Apa fungsi fitur 'Streaming' pada integrasi Gemini Provider?",
+    "response": "Memungkinkan respon teks dari model Gemini ditampilkan karakter demi karakter secara real-time ke antarmuka pengguna (chat window) tanpa menunggu seluruh jawaban selesai di-generate.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi fitur 'Streaming' pada integrasi Gemini Provider?"
+      },
+      {
+        "role": "assistant",
+        "content": "Memungkinkan respon teks dari model Gemini ditampilkan karakter demi karakter secara real-time ke antarmuka pengguna (chat window) tanpa menunggu seluruh jawaban selesai di-generate."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "998320fd-ec04-4556-b5ed-c1703ff2da5a",
+    "prompt": "Di mana konfigurasi API Key untuk ChatGPT disimpan?",
+    "response": "API Key disimpan secara aman menggunakan mekanisme 'Env Guard' dalam file environment (.env) yang terenkripsi atau terproteksi, tidak di-hardcode dalam source code provider.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana konfigurasi API Key untuk ChatGPT disimpan?"
+      },
+      {
+        "role": "assistant",
+        "content": "API Key disimpan secara aman menggunakan mekanisme 'Env Guard' dalam file environment (.env) yang terenkripsi atau terproteksi, tidak di-hardcode dalam source code provider."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "747ea506-ffcc-47ae-bb14-ae739a37181f",
+    "prompt": "Apa tugas 'Agent Executor Service'?",
+    "response": "Layanan ini bertanggung jawab untuk mengeksekusi instruksi yang diberikan oleh AI Agent, seperti menjalankan script Python, mengakses database, atau memanggil API eksternal sesuai mandat agent.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa tugas 'Agent Executor Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini bertanggung jawab untuk mengeksekusi instruksi yang diberikan oleh AI Agent, seperti menjalankan script Python, mengakses database, atau memanggil API eksternal sesuai mandat agent."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "c957db4c-e48b-4400-8592-b1d9702517ab",
+    "prompt": "Apa yang dimaksud dengan 'Model Converter Service'?",
+    "response": "Layanan yang mengubah format model hasil training (misalnya LoRA adapters) menjadi format standar (seperti GGUF atau ONNX) agar bisa dijalankan di berbagai environment inferensi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang dimaksud dengan 'Model Converter Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan yang mengubah format model hasil training (misalnya LoRA adapters) menjadi format standar (seperti GGUF atau ONNX) agar bisa dijalankan di berbagai environment inferensi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e54e93a7-320f-4457-8c2d-afc0790c538e",
+    "prompt": "Bagaimana 'Semantic Search Service' meningkatkan kecerdasan AI?",
+    "response": "Layanan ini mengindeks dokumen dan log sistem ke dalam vektor database, memungkinkan AI untuk melakukan 'Retrieval-Augmented Generation' (RAG) dan memanggil konteks memori jangka panjang.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Semantic Search Service' meningkatkan kecerdasan AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini mengindeks dokumen dan log sistem ke dalam vektor database, memungkinkan AI untuk melakukan 'Retrieval-Augmented Generation' (RAG) dan memanggil konteks memori jangka panjang."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "91938f99-6c42-4cac-9259-d41160ca12d1",
+    "prompt": "Apa fungsi 'Prompt Manager Service'?",
+    "response": "Menyimpan dan mengelola template prompt sistem (System Prompts) yang digunakan untuk mendefinisikan kepribadian dan batasan tugas (guardrails) bagi setiap AI Agent.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Prompt Manager Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menyimpan dan mengelola template prompt sistem (System Prompts) yang digunakan untuk mendefinisikan kepribadian dan batasan tugas (guardrails) bagi setiap AI Agent."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f1c516c5-36d5-4924-9ab3-8849b0e2e0b8",
+    "prompt": "Apa itu 'UnslothSFTTrainer' yang ditemukan dalam cache?",
+    "response": "Modul pelatih khusus untuk Supervised Fine-Tuning yang telah dioptimalkan oleh Unsloth untuk menangani dataset instruksi dengan efisiensi tinggi pada GPU consumer.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'UnslothSFTTrainer' yang ditemukan dalam cache?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul pelatih khusus untuk Supervised Fine-Tuning yang telah dioptimalkan oleh Unsloth untuk menangani dataset instruksi dengan efisiensi tinggi pada GPU consumer."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8d7d6458-e242-47dc-8d29-f41179a060ae",
+    "prompt": "Bagaimana sistem menangani kegagalan koneksi ke AI Provider (misal: OpenAI down)?",
+    "response": "Sistem menggunakan mekanisme 'Circuit Breaker' di layer gateway yang akan memutus sementara permintaan ke provider yang bermasalah dan mengalihkannya ke fallback provider jika dikonfigurasi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana sistem menangani kegagalan koneksi ke AI Provider (misal: OpenAI down)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sistem menggunakan mekanisme 'Circuit Breaker' di layer gateway yang akan memutus sementara permintaan ke provider yang bermasalah dan mengalihkannya ke fallback provider jika dikonfigurasi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f987de7b-e15f-4fda-a963-7a12fe565768",
+    "prompt": "Apa kegunaan 'AI Analyzer Service'?",
+    "response": "Menganalisis log eksekusi workflow yang gagal atau error, lalu menggunakan LLM untuk mendiagnosis penyebab masalah dan menyarankan perbaikan kode atau logika kepada pengguna.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kegunaan 'AI Analyzer Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menganalisis log eksekusi workflow yang gagal atau error, lalu menggunakan LLM untuk mendiagnosis penyebab masalah dan menyarankan perbaikan kode atau logika kepada pengguna."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "af4e5e91-8bec-4886-b1c1-646293dc51d9",
+    "prompt": "Apakah Flowork mendukung multimodal input (Gambar/Audio)?",
+    "response": "Ya, struktur folder 'ai_providers' memiliki kategori untuk 'image', 'audio', dan 'video', menandakan dukungan arsitektur untuk input/output selain teks.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah Flowork mendukung multimodal input (Gambar/Audio)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, struktur folder 'ai_providers' memiliki kategori untuk 'image', 'audio', dan 'video', menandakan dukungan arsitektur untuk input/output selain teks."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "1946d50d-0cbf-435d-abd1-c53e437798d5",
+    "prompt": "Apa fungsi file 'manifest.json' dalam setiap folder AI Provider?",
+    "response": "File ini mendefinisikan metadata provider, termasuk nama, versi, kemampuan model (capabilities), dan parameter konfigurasi yang dibutuhkan untuk UI.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi file 'manifest.json' dalam setiap folder AI Provider?"
+      },
+      {
+        "role": "assistant",
+        "content": "File ini mendefinisikan metadata provider, termasuk nama, versi, kemampuan model (capabilities), dan parameter konfigurasi yang dibutuhkan untuk UI."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "fe07611f-21be-489b-b004-78d32e24401b",
+    "prompt": "Bagaimana 'Agent Manager Service' membedakan antara satu agent dengan agent lainnya?",
+    "response": "Setiap agent memiliki 'Agent Profile' unik yang disimpan di database, mencakup nama, avatar, deskripsi kepribadian, dan set tool spesifik yang boleh diakses.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Agent Manager Service' membedakan antara satu agent dengan agent lainnya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Setiap agent memiliki 'Agent Profile' unik yang disimpan di database, mencakup nama, avatar, deskripsi kepribadian, dan set tool spesifik yang boleh diakses."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "7559d3e8-50cf-4a1e-adde-aa9f30f9d4e8",
+    "prompt": "Apa itu 'Knowledge Base' dalam konteks AI Center Flowork?",
+    "response": "Kumpulan dokumen atau file teks yang diunggah pengguna, di-chunking, dan di-embedding oleh Semantic Search Service untuk menjadi referensi fakta bagi AI Agent.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Knowledge Base' dalam konteks AI Center Flowork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kumpulan dokumen atau file teks yang diunggah pengguna, di-chunking, dan di-embedding oleh Semantic Search Service untuk menjadi referensi fakta bagi AI Agent."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "9b387cd9-5c01-4092-a9ea-f3930ad27271",
+    "prompt": "Bagaimana cara kerja 'AI Worker' dalam memproses antrean tugas AI?",
+    "response": "AI Worker berjalan di thread terpisah yang didedikasikan untuk tugas berat (GPU-bound), mengambil job inferensi dari antrean prioritas agar tidak memblokir operasi I/O sistem utama.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara kerja 'AI Worker' dalam memproses antrean tugas AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "AI Worker berjalan di thread terpisah yang didedikasikan untuk tugas berat (GPU-bound), mengambil job inferensi dari antrean prioritas agar tidak memblokir operasi I/O sistem utama."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2f940842-3b5f-47a0-ae17-c7370b4717f8",
+    "prompt": "Apa parameter 'max_seq_length' dalam konfigurasi training Unsloth?",
+    "response": "Parameter yang menentukan panjang maksimum token (konteks window) yang akan diproses selama pelatihan, berpengaruh langsung pada penggunaan VRAM.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa parameter 'max_seq_length' dalam konfigurasi training Unsloth?"
+      },
+      {
+        "role": "assistant",
+        "content": "Parameter yang menentukan panjang maksimum token (konteks window) yang akan diproses selama pelatihan, berpengaruh langsung pada penggunaan VRAM."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0e246994-286a-40ed-a7ea-cb7cb230405d",
+    "prompt": "Apa fungsi fitur 'Prewarm' pada model AI lokal?",
+    "response": "Memuat bobot model (model weights) ke dalam VRAM GPU saat startup aplikasi, sehingga inferensi pertama kali (first token latency) menjadi instan tanpa waktu loading.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi fitur 'Prewarm' pada model AI lokal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Memuat bobot model (model weights) ke dalam VRAM GPU saat startup aplikasi, sehingga inferensi pertama kali (first token latency) menjadi instan tanpa waktu loading."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "33663498-90e2-4fa4-9b63-09cdfc040503",
+    "prompt": "Bagaimana 'ChatGPTConnection' mengelola state percakapan?",
+    "response": "Menggunakan objek sesi yang menyimpan riwayat pesan (history) dalam memori sementara untuk mempertahankan konteks percakapan multi-turn.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'ChatGPTConnection' mengelola state percakapan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menggunakan objek sesi yang menyimpan riwayat pesan (history) dalam memori sementara untuk mempertahankan konteks percakapan multi-turn."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "306c2be1-3b2b-4d16-896a-8ef9c0bc5c85",
+    "prompt": "Apa itu 'DPO Trainer' (Direct Preference Optimization)?",
+    "response": "Metode training lanjutan yang melatih model untuk menyelaraskan outputnya dengan preferensi manusia (human feedback) tanpa memerlukan reward model terpisah yang kompleks.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'DPO Trainer' (Direct Preference Optimization)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Metode training lanjutan yang melatih model untuk menyelaraskan outputnya dengan preferensi manusia (human feedback) tanpa memerlukan reward model terpisah yang kompleks."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "50a5241f-2d4a-4bda-9690-df28ad65df2d",
+    "prompt": "Bagaimana integrasi 'Module Factory' dengan AI?",
+    "response": "Module Factory menggunakan AI untuk menulis kode Python (scaffolding) untuk modul baru secara otomatis berdasarkan deskripsi teks dari pengguna.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana integrasi 'Module Factory' dengan AI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Module Factory menggunakan AI untuk menulis kode Python (scaffolding) untuk modul baru secara otomatis berdasarkan deskripsi teks dari pengguna."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "9b8bcc35-864b-4aa6-8a06-69a91398096e",
+    "prompt": "Apa fungsi utama 'Flowork Gateway' dalam arsitektur sistem?",
+    "response": "Gateway bertindak sebagai hub pusat yang merutekan permintaan dari klien (UI) ke Engine Core yang tepat, menangani otentikasi, dan menyeimbangkan beban kerja (load balancing).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi utama 'Flowork Gateway' dalam arsitektur sistem?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gateway bertindak sebagai hub pusat yang merutekan permintaan dari klien (UI) ke Engine Core yang tepat, menangani otentikasi, dan menyeimbangkan beban kerja (load balancing)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d4a79d75-9adf-40ba-a70c-e9ab4d615a79",
+    "prompt": "Apa yang dimaksud dengan 'Sticky Session' pada konfigurasi cluster Gateway?",
+    "response": "Mekanisme yang memastikan permintaan berturut-turut dari pengguna yang sama selalu diarahkan ke Engine Core yang sama untuk menjaga konsistensi state memori jangka pendek.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang dimaksud dengan 'Sticky Session' pada konfigurasi cluster Gateway?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mekanisme yang memastikan permintaan berturut-turut dari pengguna yang sama selalu diarahkan ke Engine Core yang sama untuk menjaga konsistensi state memori jangka pendek."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "bc4d400e-bdb0-452b-84ab-fe13a91f43c6",
+    "prompt": "Bagaimana 'Circuit Breaker' melindungi sistem dari kegagalan beruntun?",
+    "response": "Komponen ini memantau tingkat kesalahan pada koneksi ke service eksternal atau Core; jika ambang batas terlampaui, ia akan memutus koneksi sementara untuk mencegah overloading.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Circuit Breaker' melindungi sistem dari kegagalan beruntun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komponen ini memantau tingkat kesalahan pada koneksi ke service eksternal atau Core; jika ambang batas terlampaui, ia akan memutus koneksi sementara untuk mencegah overloading."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "5992f395-1d99-4753-bc72-8f1104e8926f",
+    "prompt": "Apa fungsi 'Rate Limiter' di Gateway?",
+    "response": "Membatasi jumlah permintaan API yang dapat dikirim oleh pengguna atau IP tertentu dalam periode waktu tertentu untuk mencegah serangan DDoS atau penyalahgunaan sumber daya.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Rate Limiter' di Gateway?"
+      },
+      {
+        "role": "assistant",
+        "content": "Membatasi jumlah permintaan API yang dapat dikirim oleh pengguna atau IP tertentu dalam periode waktu tertentu untuk mencegah serangan DDoS atau penyalahgunaan sumber daya."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "4bfecc8b-9c90-4a0f-97d6-ef3be20bd1a6",
+    "prompt": "Apa itu 'Queue Dispatcher'?",
+    "response": "Komponen yang mengambil tugas (job) dari antrean database global dan mendistribusikannya ke worker yang tersedia di berbagai Engine Core yang terhubung.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Queue Dispatcher'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komponen yang mengambil tugas (job) dari antrean database global dan mendistribusikannya ke worker yang tersedia di berbagai Engine Core yang terhubung."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "b987164d-29cf-4c80-af23-286cee28e5b8",
+    "prompt": "Bagaimana 'Env Guard' di Gateway berbeda dengan di Core?",
+    "response": "Env Guard di Gateway melindungi variabel lingkungan server pusat (seperti kunci database master), memastikan tidak ada endpoint API yang membocorkan kredensial infrastruktur sensitif.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Env Guard' di Gateway berbeda dengan di Core?"
+      },
+      {
+        "role": "assistant",
+        "content": "Env Guard di Gateway melindungi variabel lingkungan server pusat (seperti kunci database master), memastikan tidak ada endpoint API yang membocorkan kredensial infrastruktur sensitif."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "306340e1-a9db-43e8-8d52-476f893eed0d",
+    "prompt": "Apa peran 'Permission Manager Service'?",
+    "response": "Layanan ini memverifikasi apakah node atau pengguna memiliki hak akses (permission) yang cukup untuk melakukan tindakan berisiko, seperti menulis file ke disk atau akses jaringan luar.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran 'Permission Manager Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini memverifikasi apakah node atau pengguna memiliki hak akses (permission) yang cukup untuk melakukan tindakan berisiko, seperti menulis file ke disk atau akses jaringan luar."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "a9618380-557a-46b7-8f9f-a40138c971ac",
+    "prompt": "Apa fungsi 'Heartbeat API' pada Gateway?",
+    "response": "Endpoint yang menerima sinyal 'detak jantung' berkala dari setiap Engine Core untuk mengonfirmasi bahwa mesin tersebut masih online dan siap menerima tugas.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Heartbeat API' pada Gateway?"
+      },
+      {
+        "role": "assistant",
+        "content": "Endpoint yang menerima sinyal 'detak jantung' berkala dari setiap Engine Core untuk mengonfirmasi bahwa mesin tersebut masih online dan siap menerima tugas."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "19b0520a-f58e-4f87-bd2e-b30e6c5f77b7",
+    "prompt": "Bagaimana 'Integrity Checker Service' memastikan keamanan file sistem?",
+    "response": "Layanan ini memindai file inti Flowork saat startup dan membandingkan hash-nya dengan daftar sidik jari (fingerprints) resmi untuk mendeteksi korupsi atau modifikasi ilegal.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Integrity Checker Service' memastikan keamanan file sistem?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini memindai file inti Flowork saat startup dan membandingkan hash-nya dengan daftar sidik jari (fingerprints) resmi untuk mendeteksi korupsi atau modifikasi ilegal."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e16e86ff-0278-4f5c-a558-64f4bd32cfee",
+    "prompt": "Apa itu 'Capsule' dalam konteks Gateway?",
+    "response": "Unit logika atau plugin sisi server yang berjalan di lingkungan terisolasi pada Gateway, memungkinkan penambahan fitur backend tanpa mengubah kode inti Gateway.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Capsule' dalam konteks Gateway?"
+      },
+      {
+        "role": "assistant",
+        "content": "Unit logika atau plugin sisi server yang berjalan di lingkungan terisolasi pada Gateway, memungkinkan penambahan fitur backend tanpa mengubah kode inti Gateway."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "f2d03189-0e08-44e8-96de-4f277ec69a0c",
+    "prompt": "Apa fungsi 'Drain Ops' di folder operasi Gateway?",
+    "response": "Mode operasi untuk 'menguras' koneksi secara halus, mencegah tugas baru masuk ke server yang akan dimatikan untuk pemeliharaan (maintenance) tanpa memutus proses yang sedang berjalan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Drain Ops' di folder operasi Gateway?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mode operasi untuk 'menguras' koneksi secara halus, mencegah tugas baru masuk ke server yang akan dimatikan untuk pemeliharaan (maintenance) tanpa memutus proses yang sedang berjalan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "b56173c6-8ffc-4110-bd83-aa11c11bdd4a",
+    "prompt": "Di mana log sistem disimpan dalam format terstruktur?",
+    "response": "Dikelola oleh 'JSON Logging' yang memformat setiap baris log menjadi objek JSON agar mudah di-parsing oleh alat monitoring seperti Grafana atau ELK Stack.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana log sistem disimpan dalam format terstruktur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dikelola oleh 'JSON Logging' yang memformat setiap baris log menjadi objek JSON agar mudah di-parsing oleh alat monitoring seperti Grafana atau ELK Stack."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d2b0b342-883a-45e9-a3bb-82c880164740",
+    "prompt": "Apa tugas 'Update Service'?",
+    "response": "Layanan otomatis yang memeriksa repositori pusat untuk versi terbaru dari Core, modul, atau plugin, dan melakukan pembaruan Over-The-Air (OTA) jika dikonfigurasi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa tugas 'Update Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan otomatis yang memeriksa repositori pusat untuk versi terbaru dari Core, modul, atau plugin, dan melakukan pembaruan Over-The-Air (OTA) jika dikonfigurasi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "37a23749-c4b0-4f13-8051-6ba134b90ac6",
+    "prompt": "Bagaimana 'WebSocket Server Service' menangani komunikasi real-time?",
+    "response": "Layanan ini menyediakan saluran full-duplex untuk streaming data langsung, seperti log eksekusi, status progress bar, dan event notifikasi ke antarmuka pengguna.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'WebSocket Server Service' menangani komunikasi real-time?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini menyediakan saluran full-duplex untuk streaming data langsung, seperti log eksekusi, status progress bar, dan event notifikasi ke antarmuka pengguna."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "c3d90cd1-1e27-4851-bb6b-1032f7284630",
+    "prompt": "Apa fungsi 'Cloud Sync Service'?",
+    "response": "Menyinkronkan data pengguna (seperti profil, preferensi, dan workflow yang disimpan) antara mesin lokal dan akun cloud Flowork agar data bisa diakses dari perangkat mana pun.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Cloud Sync Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menyinkronkan data pengguna (seperti profil, preferensi, dan workflow yang disimpan) antara mesin lokal dan akun cloud Flowork agar data bisa diakses dari perangkat mana pun."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8273669a-b974-47d4-a87d-868e6b415b05",
+    "prompt": "Apa itu 'Chaos Ops'?",
+    "response": "Modul untuk pengujian ketahanan (resilience testing) yang secara sengaja menyuntikkan kesalahan atau latensi ke dalam sistem untuk memverifikasi kemampuan recovery otomatis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Chaos Ops'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul untuk pengujian ketahanan (resilience testing) yang secara sengaja menyuntikkan kesalahan atau latensi ke dalam sistem untuk memverifikasi kemampuan recovery otomatis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "42e84767-7f2e-422d-86be-40f6041f33c5",
+    "prompt": "Bagaimana Gateway menangani database antrean yang sangat besar?",
+    "response": "Menggunakan model 'Sharded Queue' yang memecah tabel antrean ke beberapa partisi database untuk meningkatkan performa baca/tulis secara horizontal.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana Gateway menangani database antrean yang sangat besar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menggunakan model 'Sharded Queue' yang memecah tabel antrean ke beberapa partisi database untuk meningkatkan performa baca/tulis secara horizontal."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "759a4d66-9ce9-4eb2-a6c7-84ad4dfcdb4b",
+    "prompt": "Apa peran 'Engine Registry'?",
+    "response": "Buku induk digital yang mencatat daftar semua Engine ID yang terdaftar, alamat IP-nya, status kesehatannya, dan kapabilitas (tags) yang dimiliki.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran 'Engine Registry'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Buku induk digital yang mencatat daftar semua Engine ID yang terdaftar, alamat IP-nya, status kesehatannya, dan kapabilitas (tags) yang dimiliki."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "32bf2db9-58b4-40bc-8ac9-e2624e639060",
+    "prompt": "Apa fungsi 'Startup Service'?",
+    "response": "Orkestrator proses boot yang memastikan semua service dependensi (DB, Logger, Event Bus) dimuat dalam urutan yang benar sebelum sistem siap menerima perintah.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Startup Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Orkestrator proses boot yang memastikan semua service dependensi (DB, Logger, Event Bus) dimuat dalam urutan yang benar sebelum sistem siap menerima perintah."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "bf0252fd-6b26-4bee-b9be-3078facef423",
+    "prompt": "Bagaimana 'Widget Manager Service' berinteraksi dengan UI?",
+    "response": "Layanan ini mengelola siklus hidup widget dashboard, memuat konfigurasi widget dari plugin, dan menyuplai data real-time untuk visualisasi di frontend.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Widget Manager Service' berinteraksi dengan UI?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan ini mengelola siklus hidup widget dashboard, memuat konfigurasi widget dari plugin, dan menyuplai data real-time untuk visualisasi di frontend."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "39e9473e-a30b-4a4d-b912-3751c7db5c4e",
+    "prompt": "Apa kegunaan file 'scan_flowork.bat' di root direktori?",
+    "response": "Skrip utilitas Windows untuk menjalankan serangkaian pemindaian diagnostik sistem (scanners) guna memverifikasi instalasi dan kesehatan lingkungan Flowork secara cepat.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kegunaan file 'scan_flowork.bat' di root direktori?"
+      },
+      {
+        "role": "assistant",
+        "content": "Skrip utilitas Windows untuk menjalankan serangkaian pemindaian diagnostik sistem (scanners) guna memverifikasi instalasi dan kesehatan lingkungan Flowork secara cepat."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e501b4ca-8294-401b-a5ad-849e15e1e9d8",
+    "prompt": "Apa itu 'Scanner Manager Service'?",
+    "response": "Layanan backend yang menjadwalkan dan mengeksekusi skrip diagnostik (seperti core_integrity_scan atau license_scan) dan melaporkan hasilnya ke dashboard admin.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Scanner Manager Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan backend yang menjadwalkan dan mengeksekusi skrip diagnostik (seperti core_integrity_scan atau license_scan) dan melaporkan hasilnya ke dashboard admin."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "20c64447-6618-43fc-ad88-b746d17de9b7",
+    "prompt": "Apa fungsi 'Tools Manager Service'?",
+    "response": "Mengelola inventaris alat (tools) yang bisa digunakan oleh AI Agent, termasuk mendaftarkan tool baru dari plugin dan memvalidasi parameter inputnya.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Tools Manager Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mengelola inventaris alat (tools) yang bisa digunakan oleh AI Agent, termasuk mendaftarkan tool baru dari plugin dan memvalidasi parameter inputnya."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "833069c5-47fd-4c62-a300-75b54faa078b",
+    "prompt": "Bagaimana 'Authentication Routes' di Gateway mengamankan akses?",
+    "response": "Menyediakan endpoint untuk login, refresh token, dan validasi sesi menggunakan standar JWT (JSON Web Token) atau otentikasi berbasis wallet (Web3) sesuai konfigurasi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Authentication Routes' di Gateway mengamankan akses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menyediakan endpoint untuk login, refresh token, dan validasi sesi menggunakan standar JWT (JSON Web Token) atau otentikasi berbasis wallet (Web3) sesuai konfigurasi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "669e562f-35e2-4970-894c-994ed5e4fb2f",
+    "prompt": "Apa peran 'Community Addon Service'?",
+    "response": "Memfasilitasi pengunduhan dan instalasi modul/plugin yang dibuat oleh komunitas dari repositori publik, termasuk pengecekan kompatibilitas versi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran 'Community Addon Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Memfasilitasi pengunduhan dan instalasi modul/plugin yang dibuat oleh komunitas dari repositori publik, termasuk pengecekan kompatibilitas versi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "1412e87e-edfa-491d-a6c0-68914ac90201",
+    "prompt": "Apa fungsi utama modul 'Golden Moment Clipper'?",
+    "response": "Modul ini menggunakan AI untuk menganalisis video panjang dan secara otomatis memotong bagian-bagian 'highlight' atau momen terbaik berdasarkan kriteria keseruan yang ditentukan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi utama modul 'Golden Moment Clipper'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul ini menggunakan AI untuk menganalisis video panjang dan secara otomatis memotong bagian-bagian 'highlight' atau momen terbaik berdasarkan kriteria keseruan yang ditentukan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "e4a35f85-b31f-44fd-85a5-4dd89bf3aaa9",
+    "prompt": "Bagaimana 'Dynamic Media Stitcher' membantu dalam produksi video otomatis?",
+    "response": "Modul ini berfungsi untuk menggabungkan (stitch) beberapa klip video terpisah, seperti intro, konten utama, dan outro, menjadi satu file video utuh secara dinamis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Dynamic Media Stitcher' membantu dalam produksi video otomatis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul ini berfungsi untuk menggabungkan (stitch) beberapa klip video terpisah, seperti intro, konten utama, dan outro, menjadi satu file video utuh secara dinamis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "46946811-1c7f-48cd-b24c-243ffb414e2b",
+    "prompt": "Apa kegunaan 'Cron Trigger' dalam otomatisasi workflow?",
+    "response": "Pemicu (trigger) ini memungkinkan workflow dijalankan secara otomatis pada waktu yang spesifik atau berulang menggunakan format penjadwalan standar cron (misal: 0 8 * * * untuk setiap jam 8 pagi).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kegunaan 'Cron Trigger' dalam otomatisasi workflow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemicu (trigger) ini memungkinkan workflow dijalankan secara otomatis pada waktu yang spesifik atau berulang menggunakan format penjadwalan standar cron (misal: 0 8 * * * untuk setiap jam 8 pagi)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "6f291530-a68e-4cc0-9e8f-fc2f93d24138",
+    "prompt": "Bagaimana 'File System Trigger' mendeteksi perubahan data?",
+    "response": "Trigger ini memantau folder tertentu (Hot Folder) dan akan memicu eksekusi workflow segera setelah mendeteksi adanya file baru yang dibuat, diubah, atau dihapus di folder tersebut.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'File System Trigger' mendeteksi perubahan data?"
+      },
+      {
+        "role": "assistant",
+        "content": "Trigger ini memantau folder tertentu (Hot Folder) dan akan memicu eksekusi workflow segera setelah mendeteksi adanya file baru yang dibuat, diubah, atau dihapus di folder tersebut."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "9a350494-eeb3-47e6-92bb-de6f8902acaf",
+    "prompt": "Apa peran plugin 'Agent Host'?",
+    "response": "Plugin ini menyediakan lingkungan runtime (host) bagi AI Agent otonom untuk hidup, berpikir, dan menggunakan alat (tools) dalam ekosistem Flowork tanpa perlu infrastruktur terpisah.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran plugin 'Agent Host'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plugin ini menyediakan lingkungan runtime (host) bagi AI Agent otonom untuk hidup, berpikir, dan menggunakan alat (tools) dalam ekosistem Flowork tanpa perlu infrastruktur terpisah."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "2335fc93-a382-4c99-b067-4e35934306ce",
+    "prompt": "Apa itu 'Auto Content Factory'?",
+    "response": "Sebuah modul orkestrator yang dirancang untuk membangun pipeline pembuatan konten end-to-end, mulai dari ideasi naskah hingga produksi media final tanpa intervensi manusia.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Auto Content Factory'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sebuah modul orkestrator yang dirancang untuk membangun pipeline pembuatan konten end-to-end, mulai dari ideasi naskah hingga produksi media final tanpa intervensi manusia."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "3ae1f0e6-5fe8-4fdd-9a05-384995e8afd8",
+    "prompt": "Modul apa yang digunakan untuk menghasilkan gambar berkualitas tinggi menggunakan model SDXL?",
+    "response": "Modul 'Stable Diffusion XL Module', yang mengintegrasikan model difusi gambar terbaru untuk generate visual berdasarkan prompt teks.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Modul apa yang digunakan untuk menghasilkan gambar berkualitas tinggi menggunakan model SDXL?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul 'Stable Diffusion XL Module', yang mengintegrasikan model difusi gambar terbaru untuk generate visual berdasarkan prompt teks."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "96e200e0-4be0-46d4-975f-aedff199e79f",
+    "prompt": "Apa fungsi 'Batch Video Splitter'?",
+    "response": "Modul utilitas untuk memecah file video berdurasi panjang menjadi potongan-potongan (chunks) yang lebih kecil agar dapat diproses secara paralel oleh node lain.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Batch Video Splitter'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul utilitas untuk memecah file video berdurasi panjang menjadi potongan-potongan (chunks) yang lebih kecil agar dapat diproses secara paralel oleh node lain."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "4983787b-8c05-47f3-a6e4-96316dc4880f",
+    "prompt": "Apa itu 'Event Bus Trigger'?",
+    "response": "Pemicu yang mendengarkan sinyal atau pesan internal dari sistem (Event Bus) dan menjalankan workflow ketika event tertentu (seperti 'JobFinished' atau 'ErrorOccurred') terjadi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Event Bus Trigger'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemicu yang mendengarkan sinyal atau pesan internal dari sistem (Event Bus) dan menjalankan workflow ketika event tertentu (seperti 'JobFinished' atau 'ErrorOccurred') terjadi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "8483d1b6-b1c2-41a1-9007-c9cf0508d9f3",
+    "prompt": "Bagaimana 'System Diagnostics Plugin' membantu admin?",
+    "response": "Plugin ini menyediakan dashboard kesehatan sistem yang memantau penggunaan disk, beban CPU/RAM, dan status service vital untuk mencegah downtime.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'System Diagnostics Plugin' membantu admin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plugin ini menyediakan dashboard kesehatan sistem yang memantau penggunaan disk, beban CPU/RAM, dan status service vital untuk mencegah downtime."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "ca12ba32-f8b1-47cd-8648-6d267e44f895",
+    "prompt": "Apa fungsi kapsul 'Code Review Guardian'?",
+    "response": "Kapsul logika sisi server yang secara otomatis memeriksa kode modul atau plugin yang akan diupload untuk memastikan kualitas dan keamanannya sebelum disetujui.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi kapsul 'Code Review Guardian'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kapsul logika sisi server yang secara otomatis memeriksa kode modul atau plugin yang akan diupload untuk memastikan kualitas dan keamanannya sebelum disetujui."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "747b5e1c-9fd0-4231-8fe2-5e4eca14b166",
+    "prompt": "Apa kegunaan 'Metrics Dashboard Plugin'?",
+    "response": "Plugin visualisasi yang menampilkan grafik performa workflow, jumlah eksekusi sukses/gagal, dan statistik penggunaan token AI dalam tampilan grafis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kegunaan 'Metrics Dashboard Plugin'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plugin visualisasi yang menampilkan grafik performa workflow, jumlah eksekusi sukses/gagal, dan statistik penggunaan token AI dalam tampilan grafis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "12ca5b74-ec53-4989-be7a-976b549d1554",
+    "prompt": "Modul apa yang berfungsi untuk menerima input teks dari luar workflow?",
+    "response": "Modul 'Prompt Receiver', yang bertindak sebagai pintu masuk data teks (prompt) dari API atau UI untuk diproses lebih lanjut oleh rantai node.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Modul apa yang berfungsi untuk menerima input teks dari luar workflow?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul 'Prompt Receiver', yang bertindak sebagai pintu masuk data teks (prompt) dari API atau UI untuk diproses lebih lanjut oleh rantai node."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "621163bb-871f-49bc-8539-c5545ba46fe0",
+    "prompt": "Apa itu 'Process Trigger'?",
+    "response": "Pemicu yang memantau daftar proses sistem operasi dan menjalankan workflow jika aplikasi tertentu mulai berjalan (start) atau berhenti (stop).",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Process Trigger'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemicu yang memantau daftar proses sistem operasi dan menjalankan workflow jika aplikasi tertentu mulai berjalan (start) atau berhenti (stop)."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "708b09e0-88d4-4574-bf86-b043054206cf",
+    "prompt": "Apa fungsi 'Static Data Provider Module'?",
+    "response": "Modul sederhana untuk menyediakan data dummy atau konstanta statis (seperti JSON konfigurasi) ke dalam aliran workflow untuk keperluan testing atau default value.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Static Data Provider Module'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul sederhana untuk menyediakan data dummy atau konstanta statis (seperti JSON konfigurasi) ke dalam aliran workflow untuk keperluan testing atau default value."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "4b56dd1e-3b0c-4adb-b2c1-d3dc1ffeae09",
+    "prompt": "Bagaimana 'Video Storyboard Stitcher' berbeda dengan stitcher biasa?",
+    "response": "Modul ini lebih canggih karena menyusun video berdasarkan urutan logis narasi (storyboard), bukan sekadar penggabungan file berurutan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Video Storyboard Stitcher' berbeda dengan stitcher biasa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul ini lebih canggih karena menyusun video berdasarkan urutan logis narasi (storyboard), bukan sekadar penggabungan file berurutan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "541865e8-e219-4ce2-9c3e-96b85aa5f26c",
+    "prompt": "Apa fungsi 'Metrics Logger Plugin'?",
+    "response": "Komponen backend yang mencatat (logging) data telemetri dan metrik performa ke dalam database time-series untuk analisis jangka panjang.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Metrics Logger Plugin'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Komponen backend yang mencatat (logging) data telemetri dan metrik performa ke dalam database time-series untuk analisis jangka panjang."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "63ce8731-461c-442d-bc1b-71578b0f4cc7",
+    "prompt": "Apa itu 'Core Compiler Module'?",
+    "response": "Modul sistem yang menangani kompilasi just-in-time (JIT) untuk skrip atau logika dinamis yang perlu dijalankan dengan performa native di dalam workflow.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Core Compiler Module'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul sistem yang menangani kompilasi just-in-time (JIT) untuk skrip atau logika dinamis yang perlu dijalankan dengan performa native di dalam workflow."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "b1b06ae5-b0a4-4355-ad92-b1f7797c43be",
+    "prompt": "Apa kegunaan 'Debug Popup Module'?",
+    "response": "Modul UI yang memunculkan jendela popup berisi data debug saat workflow mencapai titik tertentu, sangat berguna untuk inspeksi variabel saat pengembangan.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kegunaan 'Debug Popup Module'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul UI yang memunculkan jendela popup berisi data debug saat workflow mencapai titik tertentu, sangat berguna untuk inspeksi variabel saat pengembangan."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "59577709-1e6d-4df4-8bd2-143dc97d5d97",
+    "prompt": "Apa peran 'Function Runner Module'?",
+    "response": "Modul fleksibel yang memungkinkan pengguna menulis dan menjalankan fungsi Python kustom (snippets) langsung di dalam node tanpa membuat modul penuh.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran 'Function Runner Module'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Modul fleksibel yang memungkinkan pengguna menulis dan menjalankan fungsi Python kustom (snippets) langsung di dalam node tanpa membuat modul penuh."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "d6e8926b-1475-48bf-920a-1c1f5a82f438",
+    "prompt": "Bagaimana cara kerja 'Recorder Routes' di API service?",
+    "response": "Menyediakan endpoint untuk mengontrol layanan perekaman layar (screen recorder), memungkinkan otomatisasi capture aktivitas desktop.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara kerja 'Recorder Routes' di API service?"
+      },
+      {
+        "role": "assistant",
+        "content": "Menyediakan endpoint untuk mengontrol layanan perekaman layar (screen recorder), memungkinkan otomatisasi capture aktivitas desktop."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0c820366-93dc-4f5e-a7e2-5404c62883f0",
+    "prompt": "Apa fungsi 'Theme Manager Service'?",
+    "response": "Layanan yang mengelola pergantian tema antarmuka (Dark/Light/Custom) dan menyinkronkan preferensi visual pengguna di seluruh aplikasi.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi 'Theme Manager Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Layanan yang mengelola pergantian tema antarmuka (Dark/Light/Custom) dan menyinkronkan preferensi visual pengguna di seluruh aplikasi."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "3080c36d-4266-42be-ae19-09621491442a",
+    "prompt": "Apa itu 'Localization Routes'?",
+    "response": "Endpoint API yang menyediakan file terjemahan (i18n) ke frontend, memungkinkan aplikasi berganti bahasa (Inggris/Indonesia) secara dinamis.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu 'Localization Routes'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Endpoint API yang menyediakan file terjemahan (i18n) ke frontend, memungkinkan aplikasi berganti bahasa (Inggris/Indonesia) secara dinamis."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "0319a478-98c5-49f9-8d6a-aa5fd808cf36",
+    "prompt": "Apa peran 'Trigger Manager Service'?",
+    "response": "Orkestrator pusat yang mendaftarkan, mengaktifkan, dan menonaktifkan semua trigger (Cron, File, Event) yang ada dalam sistem.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa peran 'Trigger Manager Service'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Orkestrator pusat yang mendaftarkan, mengaktifkan, dan menonaktifkan semua trigger (Cron, File, Event) yang ada dalam sistem."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  },
+  {
+    "id": "633f2560-72a9-4a67-9dc2-1c43d8c18f23",
+    "prompt": "Bagaimana 'Scanners' digunakan dalam diagnosa?",
+    "response": "Scanner adalah skrip Python individual (seperti cache_integrity_scan.py) yang dijalankan oleh Scanner Manager untuk memeriksa aspek spesifik kesehatan sistem.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana 'Scanners' digunakan dalam diagnosa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Scanner adalah skrip Python individual (seperti cache_integrity_scan.py) yang dijalankan oleh Scanner Manager untuk memeriksa aspek spesifik kesehatan sistem."
+      }
+    ],
+    "meta": {
+      "source": "seed_script",
+      "timestamp": 1766208772.873916
+    }
+  }
+]
